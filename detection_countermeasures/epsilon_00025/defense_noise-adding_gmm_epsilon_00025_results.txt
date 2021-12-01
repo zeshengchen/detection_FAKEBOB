@@ -1,0 +1,75 @@
+spk id = 1580, archi = gmm, sigma = 0.000000, threshold = 0.217500, eer_thrshold= 0.215800, eer_frr = 4.854369, eer_far = 4.000000, EER = 4.427184, ASR = 32.291667
+spk id = 1580, archi = gmm, sigma = 0.000500, threshold = 0.217500, eer_thrshold= 0.174800, eer_frr = 3.009709, eer_far = 3.000000, EER = 3.004854, ASR = 18.958333
+spk id = 1580, archi = gmm, sigma = 0.001000, threshold = 0.217500, eer_thrshold= 0.136200, eer_frr = 3.203883, eer_far = 2.900000, EER = 3.051942, ASR = 14.375000
+spk id = 1580, archi = gmm, sigma = 0.001500, threshold = 0.217500, eer_thrshold= 0.110100, eer_frr = 4.466019, eer_far = 4.400000, EER = 4.433010, ASR = 10.416667
+spk id = 1580, archi = gmm, sigma = 0.002000, threshold = 0.217500, eer_thrshold= 0.082400, eer_frr = 4.757282, eer_far = 4.800000, EER = 4.778641, ASR = 11.250000
+spk id = 1580, archi = gmm, sigma = 0.002500, threshold = 0.217500, eer_thrshold= 0.065400, eer_frr = 6.116505, eer_far = 6.100000, EER = 6.108252, ASR = 10.937500
+spk id = 1580, archi = gmm, sigma = 0.003000, threshold = 0.217500, eer_thrshold= 0.051700, eer_frr = 6.310680, eer_far = 6.500000, EER = 6.405340, ASR = 10.625000
+spk id = 1580, archi = gmm, sigma = 0.003500, threshold = 0.217500, eer_thrshold= 0.042600, eer_frr = 6.213592, eer_far = 5.800000, EER = 6.006796, ASR = 10.104167
+spk id = 1580, archi = gmm, sigma = 0.004000, threshold = 0.217500, eer_thrshold= 0.034300, eer_frr = 6.893204, eer_far = 6.800000, EER = 6.846602, ASR = 11.354167
+spk id = 1580, archi = gmm, sigma = 0.004500, threshold = 0.217500, eer_thrshold= 0.025800, eer_frr = 8.737864, eer_far = 8.700000, EER = 8.718932, ASR = 11.979167
+spk id = 1580, archi = gmm, sigma = 0.005000, threshold = 0.217500, eer_thrshold= 0.018900, eer_frr = 10.194175, eer_far = 10.500000, EER = 10.347087, ASR = 14.583333
+spk id = 2830, archi = gmm, sigma = 0.000000, threshold = 0.061900, eer_thrshold= 0.060300, eer_frr = 1.123596, eer_far = 3.000000, EER = 2.061798, ASR = 75.257732
+spk id = 2830, archi = gmm, sigma = 0.000500, threshold = 0.061900, eer_thrshold= 0.069900, eer_frr = 2.022472, eer_far = 2.400000, EER = 2.211236, ASR = 3.298969
+spk id = 2830, archi = gmm, sigma = 0.001000, threshold = 0.061900, eer_thrshold= 0.071400, eer_frr = 1.910112, eer_far = 1.900000, EER = 1.905056, ASR = 0.412371
+spk id = 2830, archi = gmm, sigma = 0.001500, threshold = 0.061900, eer_thrshold= 0.061300, eer_frr = 1.910112, eer_far = 2.000000, EER = 1.955056, ASR = 0.412371
+spk id = 2830, archi = gmm, sigma = 0.002000, threshold = 0.061900, eer_thrshold= 0.042300, eer_frr = 2.808989, eer_far = 2.500000, EER = 2.654494, ASR = 2.061856
+spk id = 2830, archi = gmm, sigma = 0.002500, threshold = 0.061900, eer_thrshold= 0.007700, eer_frr = 5.505618, eer_far = 5.600000, EER = 5.552809, ASR = 6.082474
+spk id = 2830, archi = gmm, sigma = 0.003000, threshold = 0.061900, eer_thrshold= -0.007700, eer_frr = 5.168539, eer_far = 5.300000, EER = 5.234270, ASR = 6.288660
+spk id = 2830, archi = gmm, sigma = 0.003500, threshold = 0.061900, eer_thrshold= -0.020600, eer_frr = 5.617978, eer_far = 5.400000, EER = 5.508989, ASR = 3.814433
+spk id = 2830, archi = gmm, sigma = 0.004000, threshold = 0.061900, eer_thrshold= -0.027900, eer_frr = 5.393258, eer_far = 5.700000, EER = 5.546629, ASR = 4.948454
+spk id = 2830, archi = gmm, sigma = 0.004500, threshold = 0.061900, eer_thrshold= -0.028500, eer_frr = 5.730337, eer_far = 5.500000, EER = 5.615169, ASR = 5.463918
+spk id = 2830, archi = gmm, sigma = 0.005000, threshold = 0.061900, eer_thrshold= -0.031800, eer_frr = 5.842697, eer_far = 6.000000, EER = 5.921348, ASR = 5.051546
+spk id = 4446, archi = gmm, sigma = 0.000000, threshold = 0.126000, eer_thrshold= 0.126000, eer_frr = 19.047619, eer_far = 18.000000, EER = 18.523810, ASR = 40.243902
+spk id = 4446, archi = gmm, sigma = 0.000500, threshold = 0.126000, eer_thrshold= 0.114200, eer_frr = 20.095238, eer_far = 20.100000, EER = 20.097619, ASR = 21.219512
+spk id = 4446, archi = gmm, sigma = 0.001000, threshold = 0.126000, eer_thrshold= 0.098800, eer_frr = 20.380952, eer_far = 20.500000, EER = 20.440476, ASR = 13.780488
+spk id = 4446, archi = gmm, sigma = 0.001500, threshold = 0.126000, eer_thrshold= 0.084900, eer_frr = 20.952381, eer_far = 20.900000, EER = 20.926190, ASR = 9.756098
+spk id = 4446, archi = gmm, sigma = 0.002000, threshold = 0.126000, eer_thrshold= 0.067800, eer_frr = 19.142857, eer_far = 19.000000, EER = 19.071429, ASR = 12.195122
+spk id = 4446, archi = gmm, sigma = 0.002500, threshold = 0.126000, eer_thrshold= 0.052700, eer_frr = 20.476190, eer_far = 20.400000, EER = 20.438095, ASR = 11.585366
+spk id = 4446, archi = gmm, sigma = 0.003000, threshold = 0.126000, eer_thrshold= 0.043700, eer_frr = 21.714286, eer_far = 21.600000, EER = 21.657143, ASR = 12.317073
+spk id = 4446, archi = gmm, sigma = 0.003500, threshold = 0.126000, eer_thrshold= 0.037000, eer_frr = 22.476190, eer_far = 22.600000, EER = 22.538095, ASR = 13.780488
+spk id = 4446, archi = gmm, sigma = 0.004000, threshold = 0.126000, eer_thrshold= 0.034600, eer_frr = 22.285714, eer_far = 22.300000, EER = 22.292857, ASR = 13.170732
+spk id = 4446, archi = gmm, sigma = 0.004500, threshold = 0.126000, eer_thrshold= 0.030900, eer_frr = 23.714286, eer_far = 23.900000, EER = 23.807143, ASR = 13.414634
+spk id = 4446, archi = gmm, sigma = 0.005000, threshold = 0.126000, eer_thrshold= 0.027200, eer_frr = 24.380952, eer_far = 24.400000, EER = 24.390476, ASR = 15.609756
+spk id = 5142, archi = gmm, sigma = 0.000000, threshold = 0.255600, eer_thrshold= 0.255400, eer_frr = 5.000000, eer_far = 5.000000, EER = 5.000000, ASR = 18.085106
+spk id = 5142, archi = gmm, sigma = 0.000500, threshold = 0.255600, eer_thrshold= 0.208100, eer_frr = 5.600000, eer_far = 5.700000, EER = 5.650000, ASR = 3.191489
+spk id = 5142, archi = gmm, sigma = 0.001000, threshold = 0.255600, eer_thrshold= 0.153100, eer_frr = 6.200000, eer_far = 6.300000, EER = 6.250000, ASR = 3.617021
+spk id = 5142, archi = gmm, sigma = 0.001500, threshold = 0.255600, eer_thrshold= 0.113700, eer_frr = 7.600000, eer_far = 7.700000, EER = 7.650000, ASR = 5.319149
+spk id = 5142, archi = gmm, sigma = 0.002000, threshold = 0.255600, eer_thrshold= 0.081200, eer_frr = 7.700000, eer_far = 7.700000, EER = 7.700000, ASR = 6.595745
+spk id = 5142, archi = gmm, sigma = 0.002500, threshold = 0.255600, eer_thrshold= 0.060000, eer_frr = 9.200000, eer_far = 9.200000, EER = 9.200000, ASR = 6.702128
+spk id = 5142, archi = gmm, sigma = 0.003000, threshold = 0.255600, eer_thrshold= 0.044400, eer_frr = 10.300000, eer_far = 10.300000, EER = 10.300000, ASR = 10.744681
+spk id = 5142, archi = gmm, sigma = 0.003500, threshold = 0.255600, eer_thrshold= 0.035800, eer_frr = 11.700000, eer_far = 11.600000, EER = 11.650000, ASR = 11.170213
+spk id = 5142, archi = gmm, sigma = 0.004000, threshold = 0.255600, eer_thrshold= 0.025600, eer_frr = 12.900000, eer_far = 13.000000, EER = 12.950000, ASR = 13.723404
+spk id = 5142, archi = gmm, sigma = 0.004500, threshold = 0.255600, eer_thrshold= 0.019000, eer_frr = 13.400000, eer_far = 13.500000, EER = 13.450000, ASR = 15.106383
+spk id = 5142, archi = gmm, sigma = 0.005000, threshold = 0.255600, eer_thrshold= 0.014100, eer_frr = 15.100000, eer_far = 14.900000, EER = 15.000000, ASR = 15.851064
+spk id = 61, archi = gmm, sigma = 0.000000, threshold = 0.129200, eer_thrshold= 0.128800, eer_frr = 0.970874, eer_far = 1.000000, EER = 0.985437, ASR = 44.444444
+spk id = 61, archi = gmm, sigma = 0.000500, threshold = 0.129200, eer_thrshold= 0.117100, eer_frr = 1.262136, eer_far = 1.200000, EER = 1.231068, ASR = 17.777778
+spk id = 61, archi = gmm, sigma = 0.001000, threshold = 0.129200, eer_thrshold= 0.108400, eer_frr = 1.456311, eer_far = 1.500000, EER = 1.478155, ASR = 4.545455
+spk id = 61, archi = gmm, sigma = 0.001500, threshold = 0.129200, eer_thrshold= 0.089800, eer_frr = 1.262136, eer_far = 1.300000, EER = 1.281068, ASR = 3.838384
+spk id = 61, archi = gmm, sigma = 0.002000, threshold = 0.129200, eer_thrshold= 0.073200, eer_frr = 1.359223, eer_far = 1.600000, EER = 1.479612, ASR = 4.141414
+spk id = 61, archi = gmm, sigma = 0.002500, threshold = 0.129200, eer_thrshold= 0.057800, eer_frr = 1.359223, eer_far = 1.800000, EER = 1.579612, ASR = 5.555556
+spk id = 61, archi = gmm, sigma = 0.003000, threshold = 0.129200, eer_thrshold= 0.049700, eer_frr = 1.262136, eer_far = 1.100000, EER = 1.181068, ASR = 2.626263
+spk id = 61, archi = gmm, sigma = 0.003500, threshold = 0.129200, eer_thrshold= 0.042700, eer_frr = 1.456311, eer_far = 1.500000, EER = 1.478155, ASR = 2.424242
+spk id = 61, archi = gmm, sigma = 0.004000, threshold = 0.129200, eer_thrshold= 0.035400, eer_frr = 1.359223, eer_far = 1.500000, EER = 1.429612, ASR = 3.333333
+spk id = 61, archi = gmm, sigma = 0.004500, threshold = 0.129200, eer_thrshold= 0.030700, eer_frr = 1.747573, eer_far = 1.700000, EER = 1.723786, ASR = 3.030303
+spk id = 61, archi = gmm, sigma = 0.005000, threshold = 0.129200, eer_thrshold= 0.024900, eer_frr = 2.135922, eer_far = 2.200000, EER = 2.167961, ASR = 2.525253
+
+sigma = 0.000000, frr = 6.199291, far = 6.200000, eer = 6.199646, asr = 42.064570
+sigma = 0.000500, frr = 6.397911, far = 6.480000, eer = 6.438955, asr = 12.889216
+sigma = 0.001000, frr = 6.630252, far = 6.620000, eer = 6.625126, asr = 7.346067
+sigma = 0.001500, frr = 7.238130, far = 7.260000, eer = 7.249065, asr = 5.948534
+sigma = 0.002000, frr = 7.153670, far = 7.120000, eer = 7.136835, asr = 7.248827
+sigma = 0.002500, frr = 8.531507, far = 8.620000, eer = 8.575754, asr = 8.172605
+sigma = 0.003000, frr = 8.951128, far = 8.960000, eer = 8.955564, asr = 8.520335
+sigma = 0.003500, frr = 9.492814, far = 9.380000, eer = 9.436407, asr = 8.258709
+sigma = 0.004000, frr = 9.766280, far = 9.860000, eer = 9.813140, asr = 9.306018
+sigma = 0.004500, frr = 10.666012, far = 10.660000, eer = 10.663006, asr = 9.798881
+sigma = 0.005000, frr = 11.530749, far = 11.600000, eer = 11.565375, asr = 10.724190
+
+EER:
+dict_keys(['0', '0.0005', '0.001', '0.0015', '0.002', '0.0025', '0.003', '0.0035', '0.004', '0.0045', '0.005'])
+dict_values([6.199645727168362, 6.438955466554463, 6.6251258915260225, 7.249064865173734, 7.1368350761271016, 8.575753660905836, 8.9555640574109, 9.436407091690173, 9.81313998971466, 10.663005968614128, 11.56537460975445])
+
+ASR:
+dict_keys(['0', '0.0005', '0.001', '0.0015', '0.002', '0.0025', '0.003', '0.0035', '0.004', '0.0045', '0.005'])
+dict_values([42.06457037837542, 12.889216348020028, 7.346066952189791, 5.948533627243389, 7.248827288717561, 8.172604659118537, 8.52033528837452, 8.258708530287063, 9.30601791417673, 9.798880869561552, 10.724190435537329])

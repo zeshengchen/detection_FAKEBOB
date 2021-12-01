@@ -1,0 +1,2195 @@
+Results for illegal audios:
+
+[23, 27]
+    audio name = 260-123286-0008.wav, index = 27, energy = 0.000000
+[0, 4]
+    audio name = 260-123286-0019.wav, index = 4, energy = 0.000000
+[30, 34]
+    audio name = 260-123286-0003.wav, index = 34, energy = 0.000000
+[23, 477]
+    audio name = 260-123286-0005.wav, index = 477, energy = 0.000000
+[0, 4]
+    audio name = 260-123286-0014.wav, index = 4, energy = 0.000000
+[20, 25]
+    audio name = 260-123286-0016.wav, index = 25, energy = 0.000000
+[21, 25]
+    audio name = 260-123286-0015.wav, index = 25, energy = 0.000000
+[19, 23]
+    audio name = 260-123286-0021.wav, index = 23, energy = 0.000000
+[0, 52]
+    audio name = 260-123286-0018.wav, index = 52, energy = 0.000000
+[20, 24]
+    audio name = 260-123286-0001.wav, index = 24, energy = 0.000000
+[6, 10]
+    audio name = 260-123286-0012.wav, index = 10, energy = 0.000000
+[6, 10]
+    audio name = 260-123286-0009.wav, index = 10, energy = 0.000000
+[0, 4]
+    audio name = 260-123286-0010.wav, index = 4, energy = 0.000000
+[4, 8]
+    audio name = 260-123286-0013.wav, index = 8, energy = 0.000000
+[0, 4]
+    audio name = 260-123286-0020.wav, index = 4, energy = 0.000000
+[0, 4]
+    audio name = 260-123286-0022.wav, index = 4, energy = 0.000000
+[1, 6]
+    audio name = 260-123286-0002.wav, index = 6, energy = 0.000000
+[0, 51]
+    audio name = 260-123286-0024.wav, index = 51, energy = 0.000000
+[0, 4]
+    audio name = 260-123286-0017.wav, index = 4, energy = 0.000000
+[25, 29]
+    audio name = 260-123286-0004.wav, index = 29, energy = 0.000000
+[583, 578]
+    audio name = 260-123286-0023.wav, index = 578, energy = 0.000001
+[0, 7]
+    audio name = 260-123286-0011.wav, index = 7, energy = 0.000000
+[451, 2]
+    audio name = 260-123286-0007.wav, index = 2, energy = 0.000000
+[0, 4]
+    audio name = 260-123286-0000.wav, index = 4, energy = 0.000000
+[0, 4]
+    audio name = 260-123286-0006.wav, index = 4, energy = 0.000000
+[434, 441]
+    audio name = 6829-68769-0008.wav, index = 441, energy = 0.000018
+[421, 913]
+    audio name = 6829-68769-0001.wav, index = 913, energy = 0.000025
+[19, 9]
+    audio name = 6829-68769-0017.wav, index = 9, energy = 0.000019
+[25, 228]
+    audio name = 6829-68769-0006.wav, index = 228, energy = 0.000014
+[335, 23]
+    audio name = 6829-68769-0014.wav, index = 23, energy = 0.000024
+[18, 12]
+    audio name = 6829-68769-0020.wav, index = 12, energy = 0.000010
+[223, 22]
+    audio name = 6829-68769-0022.wav, index = 22, energy = 0.000037
+[260, 145]
+    audio name = 6829-68769-0010.wav, index = 145, energy = 0.000034
+[7, 18]
+    audio name = 6829-68769-0000.wav, index = 18, energy = 0.000005
+[365, 650]
+    audio name = 6829-68769-0005.wav, index = 650, energy = 0.000013
+[16, 99]
+    audio name = 6829-68769-0019.wav, index = 99, energy = 0.000065
+[26, 691]
+    audio name = 6829-68769-0018.wav, index = 691, energy = 0.000014
+[22, 18]
+    audio name = 6829-68769-0004.wav, index = 18, energy = 0.000010
+[14, 360]
+    audio name = 6829-68769-0007.wav, index = 360, energy = 0.000020
+[178, 31]
+    audio name = 6829-68769-0013.wav, index = 31, energy = 0.000013
+[14, 403]
+    audio name = 6829-68769-0003.wav, index = 403, energy = 0.000034
+[354, 466]
+    audio name = 6829-68769-0023.wav, index = 466, energy = 0.000026
+[398, 406]
+    audio name = 6829-68769-0016.wav, index = 406, energy = 0.000009
+[462, 11]
+    audio name = 6829-68769-0024.wav, index = 11, energy = 0.000021
+[42, 118]
+    audio name = 6829-68769-0009.wav, index = 118, energy = 0.000055
+[302, 273]
+    audio name = 6829-68769-0011.wav, index = 273, energy = 0.000025
+[19, 15]
+    audio name = 6829-68769-0002.wav, index = 15, energy = 0.000019
+[13, 17]
+    audio name = 6829-68769-0015.wav, index = 17, energy = 0.000014
+[25, 183]
+    audio name = 6829-68769-0012.wav, index = 183, energy = 0.000014
+[289, 772]
+    audio name = 6829-68769-0021.wav, index = 772, energy = 0.000029
+[913, 25]
+    audio name = 237-126133-0015.wav, index = 25, energy = 0.000049
+[481, 354]
+    audio name = 237-126133-0023.wav, index = 354, energy = 0.000047
+[31, 18]
+    audio name = 237-126133-0012.wav, index = 18, energy = 0.000060
+[1005, 217]
+    audio name = 237-126133-0001.wav, index = 217, energy = 0.000049
+[159, 203]
+    audio name = 237-126133-0018.wav, index = 203, energy = 0.000047
+[1143, 74]
+    audio name = 237-126133-0000.wav, index = 74, energy = 0.000050
+[690, 303]
+    audio name = 237-126133-0007.wav, index = 303, energy = 0.000049
+[314, 39]
+    audio name = 237-126133-0013.wav, index = 39, energy = 0.000041
+[609, 369]
+    audio name = 237-126133-0010.wav, index = 369, energy = 0.000052
+[198, 400]
+    audio name = 237-126133-0016.wav, index = 400, energy = 0.000045
+[381, 16]
+    audio name = 237-126133-0008.wav, index = 16, energy = 0.000050
+[45, 352]
+    audio name = 237-126133-0019.wav, index = 352, energy = 0.000044
+[285, 192]
+    audio name = 237-126133-0004.wav, index = 192, energy = 0.000058
+[384, 342]
+    audio name = 237-126133-0024.wav, index = 342, energy = 0.000041
+[389, 14]
+    audio name = 237-126133-0022.wav, index = 14, energy = 0.000045
+[36, 398]
+    audio name = 237-126133-0006.wav, index = 398, energy = 0.000052
+[416, 386]
+    audio name = 237-126133-0021.wav, index = 386, energy = 0.000043
+[462, 113]
+    audio name = 237-126133-0005.wav, index = 113, energy = 0.000048
+[479, 3]
+    audio name = 237-126133-0011.wav, index = 3, energy = 0.000050
+[133, 504]
+    audio name = 237-126133-0014.wav, index = 504, energy = 0.000042
+[382, 248]
+    audio name = 237-126133-0009.wav, index = 248, energy = 0.000047
+[15, 210]
+    audio name = 237-126133-0017.wav, index = 210, energy = 0.000050
+[623, 3]
+    audio name = 237-126133-0003.wav, index = 3, energy = 0.000053
+[885, 37]
+    audio name = 237-126133-0002.wav, index = 37, energy = 0.000043
+[206, 21]
+    audio name = 237-126133-0020.wav, index = 21, energy = 0.000057
+[9, 17]
+    audio name = 6930-75918-0020.wav, index = 17, energy = 0.000009
+[299, 272]
+    audio name = 6930-76324-0000.wav, index = 272, energy = 0.000012
+[1084, 866]
+    audio name = 6930-75918-0004.wav, index = 866, energy = 0.000014
+[50, 44]
+    audio name = 6930-76324-0002.wav, index = 44, energy = 0.000028
+[279, 275]
+    audio name = 6930-75918-0011.wav, index = 275, energy = 0.000018
+[606, 12]
+    audio name = 6930-75918-0017.wav, index = 12, energy = 0.000011
+[570, 152]
+    audio name = 6930-75918-0006.wav, index = 152, energy = 0.000022
+[342, 281]
+    audio name = 6930-75918-0000.wav, index = 281, energy = 0.000019
+[145, 17]
+    audio name = 6930-76324-0003.wav, index = 17, energy = 0.000015
+[280, 289]
+    audio name = 6930-75918-0010.wav, index = 289, energy = 0.000010
+[310, 176]
+    audio name = 6930-75918-0007.wav, index = 176, energy = 0.000015
+[1417, 1410]
+    audio name = 6930-75918-0001.wav, index = 1410, energy = 0.000022
+[983, 351]
+    audio name = 6930-75918-0016.wav, index = 351, energy = 0.000012
+[335, 452]
+    audio name = 6930-75918-0008.wav, index = 452, energy = 0.000014
+[373, 394]
+    audio name = 6930-75918-0015.wav, index = 394, energy = 0.000016
+[305, 316]
+    audio name = 6930-76324-0001.wav, index = 316, energy = 0.000029
+[2, 6]
+    audio name = 6930-75918-0013.wav, index = 6, energy = 0.000017
+[460, 149]
+    audio name = 6930-75918-0002.wav, index = 149, energy = 0.000018
+[34, 30]
+    audio name = 6930-75918-0014.wav, index = 30, energy = 0.000015
+[707, 717]
+    audio name = 6930-75918-0009.wav, index = 717, energy = 0.000012
+[1278, 985]
+    audio name = 6930-75918-0005.wav, index = 985, energy = 0.000011
+[1059, 21]
+    audio name = 6930-75918-0018.wav, index = 21, energy = 0.000015
+[189, 178]
+    audio name = 6930-75918-0012.wav, index = 178, energy = 0.000011
+[2301, 1153]
+    audio name = 6930-75918-0003.wav, index = 1153, energy = 0.000013
+[559, 555]
+    audio name = 6930-75918-0019.wav, index = 555, energy = 0.000014
+
+spk = 1580
+
+  Results for legal audios:
+
+[297, 301]
+    audio name = 1580-141084-0001.wav, index = 301, energy = 0.000035
+[115, 628]
+    audio name = 1580-141083-0003.wav, index = 628, energy = 0.000092
+[34, 46]
+    audio name = 1580-141083-0047.wav, index = 46, energy = 0.000064
+[25, 371]
+    audio name = 1580-141083-0040.wav, index = 371, energy = 0.000048
+[223, 22]
+    audio name = 1580-141083-0018.wav, index = 22, energy = 0.000090
+[924, 673]
+    audio name = 1580-141083-0029.wav, index = 673, energy = 0.000055
+[0, 9]
+    audio name = 1580-141084-0025.wav, index = 9, energy = 0.000034
+[567, 217]
+    audio name = 1580-141083-0042.wav, index = 217, energy = 0.000046
+[31, 304]
+    audio name = 1580-141084-0019.wav, index = 304, energy = 0.000045
+[552, 4]
+    audio name = 1580-141084-0033.wav, index = 4, energy = 0.000032
+[190, 199]
+    audio name = 1580-141083-0017.wav, index = 199, energy = 0.000047
+[25, 192]
+    audio name = 1580-141083-0051.wav, index = 192, energy = 0.000059
+[13, 19]
+    audio name = 1580-141084-0045.wav, index = 19, energy = 0.000053
+[236, 555]
+    audio name = 1580-141083-0037.wav, index = 555, energy = 0.000073
+[278, 14]
+    audio name = 1580-141084-0044.wav, index = 14, energy = 0.000040
+[276, 114]
+    audio name = 1580-141084-0020.wav, index = 114, energy = 0.000034
+[291, 17]
+    audio name = 1580-141083-0050.wav, index = 17, energy = 0.000066
+[682, 517]
+    audio name = 1580-141083-0009.wav, index = 517, energy = 0.000098
+[570, 586]
+    audio name = 1580-141084-0040.wav, index = 586, energy = 0.000036
+[433, 4]
+    audio name = 1580-141084-0000.wav, index = 4, energy = 0.000037
+[147, 293]
+    audio name = 1580-141084-0027.wav, index = 293, energy = 0.000040
+[772, 21]
+    audio name = 1580-141084-0024.wav, index = 21, energy = 0.000038
+[14, 580]
+    audio name = 1580-141084-0002.wav, index = 580, energy = 0.000041
+[31, 406]
+    audio name = 1580-141083-0045.wav, index = 406, energy = 0.000063
+[23, 11]
+    audio name = 1580-141084-0007.wav, index = 11, energy = 0.000040
+[20, 14]
+    audio name = 1580-141083-0052.wav, index = 14, energy = 0.000071
+[300, 1]
+    audio name = 1580-141083-0023.wav, index = 1, energy = 0.000050
+[26, 206]
+    audio name = 1580-141084-0030.wav, index = 206, energy = 0.000035
+[358, 375]
+    audio name = 1580-141083-0036.wav, index = 375, energy = 0.000060
+[375, 751]
+    audio name = 1580-141084-0049.wav, index = 751, energy = 0.000028
+[484, 361]
+    audio name = 1580-141084-0004.wav, index = 361, energy = 0.000053
+[0, 415]
+    audio name = 1580-141084-0039.wav, index = 415, energy = 0.000031
+[362, 322]
+    audio name = 1580-141083-0021.wav, index = 322, energy = 0.000044
+[276, 479]
+    audio name = 1580-141083-0015.wav, index = 479, energy = 0.000044
+[497, 26]
+    audio name = 1580-141084-0029.wav, index = 26, energy = 0.000042
+[405, 17]
+    audio name = 1580-141083-0004.wav, index = 17, energy = 0.000079
+[116, 504]
+    audio name = 1580-141083-0020.wav, index = 504, energy = 0.000051
+[1044, 693]
+    audio name = 1580-141083-0006.wav, index = 693, energy = 0.000107
+[160, 624]
+    audio name = 1580-141083-0033.wav, index = 624, energy = 0.000075
+[245, 13]
+    audio name = 1580-141083-0005.wav, index = 13, energy = 0.000101
+[390, 223]
+    audio name = 1580-141083-0053.wav, index = 223, energy = 0.000062
+[227, 319]
+    audio name = 1580-141083-0035.wav, index = 319, energy = 0.000063
+[272, 71]
+    audio name = 1580-141084-0037.wav, index = 71, energy = 0.000047
+[417, 387]
+    audio name = 1580-141083-0013.wav, index = 387, energy = 0.000061
+[341, 2]
+    audio name = 1580-141083-0041.wav, index = 2, energy = 0.000054
+[52, 12]
+    audio name = 1580-141083-0026.wav, index = 12, energy = 0.000062
+[19, 485]
+    audio name = 1580-141083-0034.wav, index = 485, energy = 0.000063
+[1015, 977]
+    audio name = 1580-141083-0001.wav, index = 977, energy = 0.000076
+[10, 695]
+    audio name = 1580-141084-0026.wav, index = 695, energy = 0.000033
+[17, 193]
+    audio name = 1580-141084-0006.wav, index = 193, energy = 0.000083
+[36, 265]
+    audio name = 1580-141083-0011.wav, index = 265, energy = 0.000074
+[22, 443]
+    audio name = 1580-141084-0009.wav, index = 443, energy = 0.000044
+[22, 13]
+    audio name = 1580-141083-0031.wav, index = 13, energy = 0.000053
+[160, 283]
+    audio name = 1580-141084-0038.wav, index = 283, energy = 0.000028
+[18, 28]
+    audio name = 1580-141084-0032.wav, index = 28, energy = 0.000042
+[91, 510]
+    audio name = 1580-141083-0010.wav, index = 510, energy = 0.000086
+[0, 363]
+    audio name = 1580-141083-0025.wav, index = 363, energy = 0.000069
+[11, 310]
+    audio name = 1580-141083-0046.wav, index = 310, energy = 0.000044
+[396, 391]
+    audio name = 1580-141083-0032.wav, index = 391, energy = 0.000075
+[779, 794]
+    audio name = 1580-141084-0041.wav, index = 794, energy = 0.000030
+[226, 233]
+    audio name = 1580-141084-0028.wav, index = 233, energy = 0.000039
+[49, 480]
+    audio name = 1580-141084-0011.wav, index = 480, energy = 0.000048
+[203, 235]
+    audio name = 1580-141083-0049.wav, index = 235, energy = 0.000040
+[326, 51]
+    audio name = 1580-141083-0022.wav, index = 51, energy = 0.000063
+[192, 186]
+    audio name = 1580-141084-0022.wav, index = 186, energy = 0.000041
+[155, 587]
+    audio name = 1580-141083-0038.wav, index = 587, energy = 0.000025
+[32, 356]
+    audio name = 1580-141083-0027.wav, index = 356, energy = 0.000058
+[221, 193]
+    audio name = 1580-141083-0016.wav, index = 193, energy = 0.000055
+[363, 369]
+    audio name = 1580-141084-0014.wav, index = 369, energy = 0.000028
+[175, 48]
+    audio name = 1580-141083-0007.wav, index = 48, energy = 0.000145
+[20, 268]
+    audio name = 1580-141083-0048.wav, index = 268, energy = 0.000048
+[91, 12]
+    audio name = 1580-141084-0017.wav, index = 12, energy = 0.000074
+[190, 101]
+    audio name = 1580-141084-0013.wav, index = 101, energy = 0.000046
+[252, 46]
+    audio name = 1580-141083-0043.wav, index = 46, energy = 0.000058
+[11, 22]
+    audio name = 1580-141084-0042.wav, index = 22, energy = 0.000037
+[175, 19]
+    audio name = 1580-141084-0015.wav, index = 19, energy = 0.000034
+[113, 589]
+    audio name = 1580-141084-0016.wav, index = 589, energy = 0.000043
+[198, 203]
+    audio name = 1580-141084-0043.wav, index = 203, energy = 0.000032
+[253, 247]
+    audio name = 1580-141083-0028.wav, index = 247, energy = 0.000071
+[37, 41]
+    audio name = 1580-141084-0012.wav, index = 41, energy = 0.000042
+[346, 679]
+    audio name = 1580-141083-0012.wav, index = 679, energy = 0.000064
+[348, 425]
+    audio name = 1580-141084-0010.wav, index = 425, energy = 0.000031
+[227, 172]
+    audio name = 1580-141084-0046.wav, index = 172, energy = 0.000033
+[366, 362]
+    audio name = 1580-141083-0039.wav, index = 362, energy = 0.000041
+[16, 32]
+    audio name = 1580-141083-0030.wav, index = 32, energy = 0.000063
+[243, 5]
+    audio name = 1580-141083-0024.wav, index = 5, energy = 0.000058
+[254, 34]
+    audio name = 1580-141083-0014.wav, index = 34, energy = 0.000066
+[381, 5]
+    audio name = 1580-141084-0003.wav, index = 5, energy = 0.000034
+[657, 663]
+    audio name = 1580-141084-0008.wav, index = 663, energy = 0.000041
+[128, 314]
+    audio name = 1580-141084-0018.wav, index = 314, energy = 0.000031
+[424, 11]
+    audio name = 1580-141083-0008.wav, index = 11, energy = 0.000095
+[27, 292]
+    audio name = 1580-141084-0034.wav, index = 292, energy = 0.000041
+[847, 26]
+    audio name = 1580-141084-0023.wav, index = 26, energy = 0.000041
+[239, 270]
+    audio name = 1580-141084-0021.wav, index = 270, energy = 0.000038
+[8, 253]
+    audio name = 1580-141083-0019.wav, index = 253, energy = 0.000060
+[482, 497]
+    audio name = 1580-141084-0047.wav, index = 497, energy = 0.000040
+[220, 527]
+    audio name = 1580-141083-0044.wav, index = 527, energy = 0.000043
+[244, 9]
+    audio name = 1580-141084-0035.wav, index = 9, energy = 0.000030
+[586, 37]
+    audio name = 1580-141083-0002.wav, index = 37, energy = 0.000103
+[878, 545]
+    audio name = 1580-141083-0000.wav, index = 545, energy = 0.000045
+[642, 369]
+    audio name = 1580-141084-0031.wav, index = 369, energy = 0.000030
+[29, 242]
+    audio name = 1580-141084-0036.wav, index = 242, energy = 0.000058
+[245, 30]
+    audio name = 1580-141084-0005.wav, index = 30, energy = 0.000039
+
+  Results for adversarial audios:
+
+[23, 353]
+    audio name = 260-123286-0008.wav, index = 353, energy = 0.003878
+[0, 616]
+    audio name = 260-123286-0019.wav, index = 616, energy = 0.003624
+[30, 709]
+    audio name = 260-123286-0003.wav, index = 709, energy = 0.004957
+[23, 63]
+    audio name = 260-123286-0005.wav, index = 63, energy = 0.003158
+[0, 265]
+    audio name = 260-123286-0014.wav, index = 265, energy = 0.003039
+[20, 661]
+    audio name = 260-123286-0016.wav, index = 661, energy = 0.002745
+[21, 352]
+    audio name = 260-123286-0015.wav, index = 352, energy = 0.004738
+[19, 218]
+    audio name = 260-123286-0021.wav, index = 218, energy = 0.003201
+[0, 490]
+    audio name = 260-123286-0018.wav, index = 490, energy = 0.003488
+[20, 0]
+    audio name = 260-123286-0001.wav, index = 0, energy = 0.004015
+[6, 43]
+    audio name = 260-123286-0012.wav, index = 43, energy = 0.003795
+[6, 315]
+    audio name = 260-123286-0009.wav, index = 315, energy = 0.002840
+[0, 37]
+    audio name = 260-123286-0010.wav, index = 37, energy = 0.005396
+[4, 423]
+    audio name = 260-123286-0013.wav, index = 423, energy = 0.003727
+[0, 119]
+    audio name = 260-123286-0020.wav, index = 119, energy = 0.005003
+[0, 69]
+    audio name = 260-123286-0022.wav, index = 69, energy = 0.004470
+[1, 158]
+    audio name = 260-123286-0002.wav, index = 158, energy = 0.003019
+[0, 82]
+    audio name = 260-123286-0024.wav, index = 82, energy = 0.003089
+[0, 293]
+    audio name = 260-123286-0017.wav, index = 293, energy = 0.003990
+[25, 247]
+    audio name = 260-123286-0004.wav, index = 247, energy = 0.005678
+[583, 331]
+    audio name = 260-123286-0023.wav, index = 331, energy = 0.003907
+[0, 33]
+    audio name = 260-123286-0011.wav, index = 33, energy = 0.003003
+[451, 416]
+    audio name = 260-123286-0007.wav, index = 416, energy = 0.003676
+[0, 109]
+    audio name = 260-123286-0000.wav, index = 109, energy = 0.002987
+[0, 296]
+    audio name = 260-123286-0006.wav, index = 296, energy = 0.003258
+[434, 20]
+    audio name = 6829-68769-0008.wav, index = 20, energy = 0.005542
+[421, 401]
+    audio name = 6829-68769-0001.wav, index = 401, energy = 0.004350
+[19, 165]
+    audio name = 6829-68769-0017.wav, index = 165, energy = 0.007065
+[25, 11]
+    audio name = 6829-68769-0006.wav, index = 11, energy = 0.004797
+[335, 16]
+    audio name = 6829-68769-0014.wav, index = 16, energy = 0.005276
+[18, 351]
+    audio name = 6829-68769-0020.wav, index = 351, energy = 0.005372
+[223, 117]
+    audio name = 6829-68769-0022.wav, index = 117, energy = 0.004294
+[260, 255]
+    audio name = 6829-68769-0010.wav, index = 255, energy = 0.007029
+[7, 1140]
+    audio name = 6829-68769-0000.wav, index = 1140, energy = 0.003241
+[365, 180]
+    audio name = 6829-68769-0005.wav, index = 180, energy = 0.003855
+[16, 4]
+    audio name = 6829-68769-0019.wav, index = 4, energy = 0.008157
+[26, 349]
+    audio name = 6829-68769-0018.wav, index = 349, energy = 0.004859
+[22, 282]
+    audio name = 6829-68769-0004.wav, index = 282, energy = 0.006078
+[14, 193]
+    audio name = 6829-68769-0007.wav, index = 193, energy = 0.007448
+[178, 38]
+    audio name = 6829-68769-0013.wav, index = 38, energy = 0.006670
+[14, 53]
+    audio name = 6829-68769-0003.wav, index = 53, energy = 0.008404
+[354, 286]
+    audio name = 6829-68769-0023.wav, index = 286, energy = 0.004818
+[398, 29]
+    audio name = 6829-68769-0016.wav, index = 29, energy = 0.005103
+[462, 158]
+    audio name = 6829-68769-0024.wav, index = 158, energy = 0.004374
+[42, 274]
+    audio name = 6829-68769-0009.wav, index = 274, energy = 0.006175
+[302, 279]
+    audio name = 6829-68769-0011.wav, index = 279, energy = 0.004978
+[19, 14]
+    audio name = 6829-68769-0002.wav, index = 14, energy = 0.004873
+[13, 278]
+    audio name = 6829-68769-0015.wav, index = 278, energy = 0.004091
+[25, 97]
+    audio name = 6829-68769-0012.wav, index = 97, energy = 0.005752
+[289, 415]
+    audio name = 6829-68769-0021.wav, index = 415, energy = 0.003497
+[913, 553]
+    audio name = 237-126133-0015.wav, index = 553, energy = 0.004559
+[481, 226]
+    audio name = 237-126133-0023.wav, index = 226, energy = 0.005118
+[31, 241]
+    audio name = 237-126133-0012.wav, index = 241, energy = 0.007018
+[1005, 609]
+    audio name = 237-126133-0001.wav, index = 609, energy = 0.004535
+[159, 107]
+    audio name = 237-126133-0018.wav, index = 107, energy = 0.004067
+[1143, 618]
+    audio name = 237-126133-0000.wav, index = 618, energy = 0.004040
+[690, 96]
+    audio name = 237-126133-0007.wav, index = 96, energy = 0.005717
+[314, 102]
+    audio name = 237-126133-0013.wav, index = 102, energy = 0.003857
+[609, 593]
+    audio name = 237-126133-0010.wav, index = 593, energy = 0.004434
+[198, 84]
+    audio name = 237-126133-0016.wav, index = 84, energy = 0.005043
+[381, 255]
+    audio name = 237-126133-0008.wav, index = 255, energy = 0.006766
+[45, 648]
+    audio name = 237-126133-0019.wav, index = 648, energy = 0.003563
+[36, 329]
+    audio name = 237-126133-0006.wav, index = 329, energy = 0.004820
+[416, 117]
+    audio name = 237-126133-0021.wav, index = 117, energy = 0.003751
+[462, 261]
+    audio name = 237-126133-0005.wav, index = 261, energy = 0.004208
+[479, 37]
+    audio name = 237-126133-0011.wav, index = 37, energy = 0.003869
+[133, 668]
+    audio name = 237-126133-0014.wav, index = 668, energy = 0.004927
+[382, 25]
+    audio name = 237-126133-0009.wav, index = 25, energy = 0.005860
+[15, 30]
+    audio name = 237-126133-0017.wav, index = 30, energy = 0.004993
+[623, 277]
+    audio name = 237-126133-0003.wav, index = 277, energy = 0.003859
+[885, 710]
+    audio name = 237-126133-0002.wav, index = 710, energy = 0.004337
+[206, 117]
+    audio name = 237-126133-0020.wav, index = 117, energy = 0.005664
+[9, 1367]
+    audio name = 6930-75918-0020.wav, index = 1367, energy = 0.003991
+[299, 123]
+    audio name = 6930-76324-0000.wav, index = 123, energy = 0.005574
+[1084, 564]
+    audio name = 6930-75918-0004.wav, index = 564, energy = 0.004715
+[50, 452]
+    audio name = 6930-76324-0002.wav, index = 452, energy = 0.005447
+[279, 17]
+    audio name = 6930-75918-0011.wav, index = 17, energy = 0.005542
+[606, 256]
+    audio name = 6930-75918-0017.wav, index = 256, energy = 0.005139
+[570, 198]
+    audio name = 6930-75918-0006.wav, index = 198, energy = 0.004676
+[342, 47]
+    audio name = 6930-75918-0000.wav, index = 47, energy = 0.006740
+[280, 80]
+    audio name = 6930-75918-0010.wav, index = 80, energy = 0.006407
+[310, 276]
+    audio name = 6930-75918-0007.wav, index = 276, energy = 0.006840
+[1417, 127]
+    audio name = 6930-75918-0001.wav, index = 127, energy = 0.004968
+[983, 454]
+    audio name = 6930-75918-0016.wav, index = 454, energy = 0.004531
+[335, 231]
+    audio name = 6930-75918-0008.wav, index = 231, energy = 0.005542
+[373, 219]
+    audio name = 6930-75918-0015.wav, index = 219, energy = 0.005998
+[305, 226]
+    audio name = 6930-76324-0001.wav, index = 226, energy = 0.007262
+[2, 256]
+    audio name = 6930-75918-0013.wav, index = 256, energy = 0.007322
+[460, 479]
+    audio name = 6930-75918-0002.wav, index = 479, energy = 0.006899
+[34, 1378]
+    audio name = 6930-75918-0014.wav, index = 1378, energy = 0.004316
+[707, 465]
+    audio name = 6930-75918-0009.wav, index = 465, energy = 0.005706
+[1278, 832]
+    audio name = 6930-75918-0005.wav, index = 832, energy = 0.004152
+[1059, 497]
+    audio name = 6930-75918-0018.wav, index = 497, energy = 0.003670
+[189, 79]
+    audio name = 6930-75918-0012.wav, index = 79, energy = 0.006477
+[2301, 777]
+    audio name = 6930-75918-0003.wav, index = 777, energy = 0.004011
+[559, 411]
+    audio name = 6930-75918-0019.wav, index = 411, energy = 0.004430
+
+
+spk = 2830
+
+  Results for legal audios:
+
+[467, 241]
+    audio name = 2830-3980-0076.wav, index = 241, energy = 0.000089
+[1023, 2]
+    audio name = 2830-3980-0048.wav, index = 2, energy = 0.000069
+[548, 540]
+    audio name = 2830-3980-0038.wav, index = 540, energy = 0.000056
+[42, 7]
+    audio name = 2830-3980-0014.wav, index = 7, energy = 0.000083
+[219, 33]
+    audio name = 2830-3980-0016.wav, index = 33, energy = 0.000088
+[516, 40]
+    audio name = 2830-3980-0030.wav, index = 40, energy = 0.000078
+[34, 9]
+    audio name = 2830-3980-0042.wav, index = 9, energy = 0.000082
+[209, 29]
+    audio name = 2830-3980-0027.wav, index = 29, energy = 0.000069
+[722, 201]
+    audio name = 2830-3979-0011.wav, index = 201, energy = 0.000026
+[0, 362]
+    audio name = 2830-3980-0069.wav, index = 362, energy = 0.000064
+[51, 650]
+    audio name = 2830-3980-0031.wav, index = 650, energy = 0.000057
+[2, 15]
+    audio name = 2830-3980-0041.wav, index = 15, energy = 0.000053
+[16, 23]
+    audio name = 2830-3980-0056.wav, index = 23, energy = 0.000092
+[161, 14]
+    audio name = 2830-3980-0017.wav, index = 14, energy = 0.000065
+[336, 27]
+    audio name = 2830-3980-0020.wav, index = 27, energy = 0.000076
+[23, 34]
+    audio name = 2830-3980-0008.wav, index = 34, energy = 0.000011
+[404, 542]
+    audio name = 2830-3980-0011.wav, index = 542, energy = 0.000049
+[23, 315]
+    audio name = 2830-3980-0013.wav, index = 315, energy = 0.000071
+[32, 38]
+    audio name = 2830-3980-0000.wav, index = 38, energy = 0.000013
+[215, 18]
+    audio name = 2830-3980-0070.wav, index = 18, energy = 0.000059
+[571, 56]
+    audio name = 2830-3980-0036.wav, index = 56, energy = 0.000080
+[6, 246]
+    audio name = 2830-3980-0060.wav, index = 246, energy = 0.000130
+[801, 25]
+    audio name = 2830-3979-0003.wav, index = 25, energy = 0.000028
+[925, 730]
+    audio name = 2830-3979-0008.wav, index = 730, energy = 0.000024
+[447, 3]
+    audio name = 2830-3980-0019.wav, index = 3, energy = 0.000072
+[49, 36]
+    audio name = 2830-3980-0058.wav, index = 36, energy = 0.000065
+[313, 344]
+    audio name = 2830-3980-0044.wav, index = 344, energy = 0.000082
+[39, 30]
+    audio name = 2830-3980-0045.wav, index = 30, energy = 0.000088
+[201, 14]
+    audio name = 2830-3979-0005.wav, index = 14, energy = 0.000032
+[37, 7]
+    audio name = 2830-3980-0022.wav, index = 7, energy = 0.000086
+[192, 35]
+    audio name = 2830-3980-0043.wav, index = 35, energy = 0.000128
+[299, 763]
+    audio name = 2830-3980-0047.wav, index = 763, energy = 0.000086
+[255, 1]
+    audio name = 2830-3980-0062.wav, index = 1, energy = 0.000071
+[41, 9]
+    audio name = 2830-3980-0053.wav, index = 9, energy = 0.000063
+[7, 504]
+    audio name = 2830-3980-0067.wav, index = 504, energy = 0.000083
+[347, 33]
+    audio name = 2830-3980-0004.wav, index = 33, energy = 0.000010
+[391, 395]
+    audio name = 2830-3979-0002.wav, index = 395, energy = 0.000033
+[446, 173]
+    audio name = 2830-3979-0006.wav, index = 173, energy = 0.000037
+[326, 0]
+    audio name = 2830-3980-0049.wav, index = 0, energy = 0.000074
+[2, 324]
+    audio name = 2830-3980-0018.wav, index = 324, energy = 0.000078
+[34, 43]
+    audio name = 2830-3980-0071.wav, index = 43, energy = 0.000067
+[166, 180]
+    audio name = 2830-3979-0004.wav, index = 180, energy = 0.000031
+[5, 19]
+    audio name = 2830-3980-0065.wav, index = 19, energy = 0.000078
+[12, 561]
+    audio name = 2830-3980-0025.wav, index = 561, energy = 0.000055
+[9, 187]
+    audio name = 2830-3980-0009.wav, index = 187, energy = 0.000014
+[27, 20]
+    audio name = 2830-3980-0001.wav, index = 20, energy = 0.000015
+[2, 12]
+    audio name = 2830-3980-0040.wav, index = 12, energy = 0.000091
+[22, 798]
+    audio name = 2830-3979-0009.wav, index = 798, energy = 0.000034
+[579, 593]
+    audio name = 2830-3980-0066.wav, index = 593, energy = 0.000078
+[593, 573]
+    audio name = 2830-3980-0023.wav, index = 573, energy = 0.000053
+[365, 1185]
+    audio name = 2830-3980-0073.wav, index = 1185, energy = 0.000062
+[652, 214]
+    audio name = 2830-3980-0054.wav, index = 214, energy = 0.000076
+[168, 20]
+    audio name = 2830-3980-0012.wav, index = 20, energy = 0.000042
+[609, 229]
+    audio name = 2830-3980-0051.wav, index = 229, energy = 0.000067
+[38, 46]
+    audio name = 2830-3980-0064.wav, index = 46, energy = 0.000060
+[129, 537]
+    audio name = 2830-3979-0007.wav, index = 537, energy = 0.000029
+[2, 257]
+    audio name = 2830-3980-0046.wav, index = 257, energy = 0.000083
+[11, 28]
+    audio name = 2830-3980-0007.wav, index = 28, energy = 0.000009
+[1589, 429]
+    audio name = 2830-3979-0001.wav, index = 429, energy = 0.000025
+[2, 20]
+    audio name = 2830-3980-0021.wav, index = 20, energy = 0.000088
+[486, 478]
+    audio name = 2830-3979-0000.wav, index = 478, energy = 0.000021
+[12, 137]
+    audio name = 2830-3980-0026.wav, index = 137, energy = 0.000068
+[553, 41]
+    audio name = 2830-3980-0074.wav, index = 41, energy = 0.000057
+[780, 802]
+    audio name = 2830-3980-0057.wav, index = 802, energy = 0.000065
+[209, 536]
+    audio name = 2830-3980-0063.wav, index = 536, energy = 0.000064
+[582, 704]
+    audio name = 2830-3980-0061.wav, index = 704, energy = 0.000055
+[343, 14]
+    audio name = 2830-3980-0028.wav, index = 14, energy = 0.000069
+[334, 473]
+    audio name = 2830-3980-0032.wav, index = 473, energy = 0.000072
+[48, 43]
+    audio name = 2830-3980-0059.wav, index = 43, energy = 0.000104
+[259, 30]
+    audio name = 2830-3980-0015.wav, index = 30, energy = 0.000091
+[178, 182]
+    audio name = 2830-3980-0072.wav, index = 182, energy = 0.000088
+[8, 20]
+    audio name = 2830-3980-0033.wav, index = 20, energy = 0.000068
+[283, 277]
+    audio name = 2830-3980-0034.wav, index = 277, energy = 0.000085
+[29, 235]
+    audio name = 2830-3980-0003.wav, index = 235, energy = 0.000025
+[32, 22]
+    audio name = 2830-3980-0035.wav, index = 22, energy = 0.000063
+[25, 299]
+    audio name = 2830-3979-0010.wav, index = 299, energy = 0.000035
+[333, 19]
+    audio name = 2830-3979-0012.wav, index = 19, energy = 0.000029
+[584, 635]
+    audio name = 2830-3980-0005.wav, index = 635, energy = 0.000012
+[49, 318]
+    audio name = 2830-3980-0039.wav, index = 318, energy = 0.000074
+[52, 19]
+    audio name = 2830-3980-0024.wav, index = 19, energy = 0.000059
+[20, 615]
+    audio name = 2830-3980-0029.wav, index = 615, energy = 0.000064
+[2, 31]
+    audio name = 2830-3980-0006.wav, index = 31, energy = 0.000011
+[23, 19]
+    audio name = 2830-3980-0002.wav, index = 19, energy = 0.000022
+[487, 351]
+    audio name = 2830-3980-0068.wav, index = 351, energy = 0.000080
+[25, 453]
+    audio name = 2830-3980-0052.wav, index = 453, energy = 0.000069
+[24, 714]
+    audio name = 2830-3980-0050.wav, index = 714, energy = 0.000070
+[376, 722]
+    audio name = 2830-3980-0055.wav, index = 722, energy = 0.000071
+[0, 12]
+    audio name = 2830-3980-0037.wav, index = 12, energy = 0.000080
+[305, 20]
+    audio name = 2830-3980-0010.wav, index = 20, energy = 0.000060
+
+  Results for adversarial audios:
+
+[23, 342]
+    audio name = 260-123286-0008.wav, index = 342, energy = 0.006082
+[0, 260]
+    audio name = 260-123286-0019.wav, index = 260, energy = 0.004422
+[30, 350]
+    audio name = 260-123286-0003.wav, index = 350, energy = 0.004631
+[23, 229]
+    audio name = 260-123286-0005.wav, index = 229, energy = 0.009000
+[0, 198]
+    audio name = 260-123286-0014.wav, index = 198, energy = 0.007676
+[20, 139]
+    audio name = 260-123286-0016.wav, index = 139, energy = 0.006865
+[21, 229]
+    audio name = 260-123286-0015.wav, index = 229, energy = 0.005745
+[19, 124]
+    audio name = 260-123286-0021.wav, index = 124, energy = 0.006169
+[0, 314]
+    audio name = 260-123286-0018.wav, index = 314, energy = 0.006596
+[20, 293]
+    audio name = 260-123286-0001.wav, index = 293, energy = 0.008386
+[6, 231]
+    audio name = 260-123286-0012.wav, index = 231, energy = 0.002344
+[6, 244]
+    audio name = 260-123286-0009.wav, index = 244, energy = 0.007291
+[0, 246]
+    audio name = 260-123286-0010.wav, index = 246, energy = 0.005093
+[4, 271]
+    audio name = 260-123286-0013.wav, index = 271, energy = 0.007597
+[0, 42]
+    audio name = 260-123286-0020.wav, index = 42, energy = 0.005293
+[0, 11]
+    audio name = 260-123286-0022.wav, index = 11, energy = 0.008431
+[1, 635]
+    audio name = 260-123286-0002.wav, index = 635, energy = 0.005993
+[0, 30]
+    audio name = 260-123286-0024.wav, index = 30, energy = 0.006376
+[0, 9]
+    audio name = 260-123286-0017.wav, index = 9, energy = 0.006066
+[25, 133]
+    audio name = 260-123286-0004.wav, index = 133, energy = 0.005748
+[583, 181]
+    audio name = 260-123286-0023.wav, index = 181, energy = 0.006371
+[0, 419]
+    audio name = 260-123286-0011.wav, index = 419, energy = 0.004538
+[451, 447]
+    audio name = 260-123286-0007.wav, index = 447, energy = 0.006328
+[0, 113]
+    audio name = 260-123286-0000.wav, index = 113, energy = 0.004400
+[0, 200]
+    audio name = 260-123286-0006.wav, index = 200, energy = 0.006490
+[434, 347]
+    audio name = 6829-68769-0008.wav, index = 347, energy = 0.007133
+[421, 142]
+    audio name = 6829-68769-0001.wav, index = 142, energy = 0.006991
+[19, 220]
+    audio name = 6829-68769-0017.wav, index = 220, energy = 0.007844
+[25, 518]
+    audio name = 6829-68769-0006.wav, index = 518, energy = 0.007268
+[335, 181]
+    audio name = 6829-68769-0014.wav, index = 181, energy = 0.008049
+[223, 9]
+    audio name = 6829-68769-0022.wav, index = 9, energy = 0.006403
+[260, 13]
+    audio name = 6829-68769-0010.wav, index = 13, energy = 0.006480
+[7, 988]
+    audio name = 6829-68769-0000.wav, index = 988, energy = 0.005270
+[365, 242]
+    audio name = 6829-68769-0005.wav, index = 242, energy = 0.007040
+[16, 8]
+    audio name = 6829-68769-0019.wav, index = 8, energy = 0.008868
+[26, 180]
+    audio name = 6829-68769-0018.wav, index = 180, energy = 0.008385
+[22, 512]
+    audio name = 6829-68769-0004.wav, index = 512, energy = 0.004863
+[14, 9]
+    audio name = 6829-68769-0007.wav, index = 9, energy = 0.008404
+[178, 32]
+    audio name = 6829-68769-0013.wav, index = 32, energy = 0.006328
+[14, 282]
+    audio name = 6829-68769-0003.wav, index = 282, energy = 0.008129
+[354, 460]
+    audio name = 6829-68769-0023.wav, index = 460, energy = 0.006566
+[398, 229]
+    audio name = 6829-68769-0016.wav, index = 229, energy = 0.005403
+[42, 209]
+    audio name = 6829-68769-0009.wav, index = 209, energy = 0.006423
+[302, 277]
+    audio name = 6829-68769-0011.wav, index = 277, energy = 0.007828
+[19, 4]
+    audio name = 6829-68769-0002.wav, index = 4, energy = 0.005456
+[13, 7]
+    audio name = 6829-68769-0015.wav, index = 7, energy = 0.006561
+[289, 588]
+    audio name = 6829-68769-0021.wav, index = 588, energy = 0.006653
+[913, 230]
+    audio name = 237-126133-0015.wav, index = 230, energy = 0.002981
+[481, 561]
+    audio name = 237-126133-0023.wav, index = 561, energy = 0.005200
+[31, 221]
+    audio name = 237-126133-0012.wav, index = 221, energy = 0.004471
+[1005, 290]
+    audio name = 237-126133-0001.wav, index = 290, energy = 0.005129
+[159, 294]
+    audio name = 237-126133-0018.wav, index = 294, energy = 0.006375
+[1143, 1314]
+    audio name = 237-126133-0000.wav, index = 1314, energy = 0.003953
+[690, 28]
+    audio name = 237-126133-0007.wav, index = 28, energy = 0.005611
+[314, 31]
+    audio name = 237-126133-0013.wav, index = 31, energy = 0.004566
+[609, 442]
+    audio name = 237-126133-0010.wav, index = 442, energy = 0.007589
+[198, 103]
+    audio name = 237-126133-0016.wav, index = 103, energy = 0.005885
+[381, 317]
+    audio name = 237-126133-0008.wav, index = 317, energy = 0.006212
+[45, 214]
+    audio name = 237-126133-0019.wav, index = 214, energy = 0.005416
+[285, 182]
+    audio name = 237-126133-0004.wav, index = 182, energy = 0.006213
+[384, 715]
+    audio name = 237-126133-0024.wav, index = 715, energy = 0.005990
+[389, 161]
+    audio name = 237-126133-0022.wav, index = 161, energy = 0.004870
+[36, 263]
+    audio name = 237-126133-0006.wav, index = 263, energy = 0.001874
+[416, 431]
+    audio name = 237-126133-0021.wav, index = 431, energy = 0.005372
+[462, 493]
+    audio name = 237-126133-0005.wav, index = 493, energy = 0.006598
+[479, 109]
+    audio name = 237-126133-0011.wav, index = 109, energy = 0.005729
+[133, 289]
+    audio name = 237-126133-0014.wav, index = 289, energy = 0.006188
+[382, 212]
+    audio name = 237-126133-0009.wav, index = 212, energy = 0.007155
+[15, 174]
+    audio name = 237-126133-0017.wav, index = 174, energy = 0.004680
+[623, 48]
+    audio name = 237-126133-0003.wav, index = 48, energy = 0.005728
+[885, 396]
+    audio name = 237-126133-0002.wav, index = 396, energy = 0.004622
+[206, 28]
+    audio name = 237-126133-0020.wav, index = 28, energy = 0.005813
+[9, 594]
+    audio name = 6930-75918-0020.wav, index = 594, energy = 0.004445
+[299, 253]
+    audio name = 6930-76324-0000.wav, index = 253, energy = 0.006073
+[1084, 999]
+    audio name = 6930-75918-0004.wav, index = 999, energy = 0.005392
+[50, 529]
+    audio name = 6930-76324-0002.wav, index = 529, energy = 0.007323
+[279, 94]
+    audio name = 6930-75918-0011.wav, index = 94, energy = 0.005106
+[606, 463]
+    audio name = 6930-75918-0017.wav, index = 463, energy = 0.006386
+[570, 234]
+    audio name = 6930-75918-0006.wav, index = 234, energy = 0.007218
+[342, 173]
+    audio name = 6930-75918-0000.wav, index = 173, energy = 0.006313
+[145, 126]
+    audio name = 6930-76324-0003.wav, index = 126, energy = 0.007678
+[280, 69]
+    audio name = 6930-75918-0010.wav, index = 69, energy = 0.005814
+[310, 7]
+    audio name = 6930-75918-0007.wav, index = 7, energy = 0.005191
+[1417, 452]
+    audio name = 6930-75918-0001.wav, index = 452, energy = 0.006314
+[983, 604]
+    audio name = 6930-75918-0016.wav, index = 604, energy = 0.005271
+[335, 205]
+    audio name = 6930-75918-0008.wav, index = 205, energy = 0.005088
+[373, 573]
+    audio name = 6930-75918-0015.wav, index = 573, energy = 0.006148
+[305, 84]
+    audio name = 6930-76324-0001.wav, index = 84, energy = 0.008264
+[2, 288]
+    audio name = 6930-75918-0013.wav, index = 288, energy = 0.005668
+[460, 379]
+    audio name = 6930-75918-0002.wav, index = 379, energy = 0.006833
+[34, 156]
+    audio name = 6930-75918-0014.wav, index = 156, energy = 0.004063
+[707, 190]
+    audio name = 6930-75918-0009.wav, index = 190, energy = 0.004658
+[1278, 1166]
+    audio name = 6930-75918-0005.wav, index = 1166, energy = 0.005101
+[1059, 499]
+    audio name = 6930-75918-0018.wav, index = 499, energy = 0.004430
+[189, 31]
+    audio name = 6930-75918-0012.wav, index = 31, energy = 0.005943
+[2301, 142]
+    audio name = 6930-75918-0003.wav, index = 142, energy = 0.004986
+[559, 1157]
+    audio name = 6930-75918-0019.wav, index = 1157, energy = 0.005879
+
+
+spk = 4446
+
+  Results for legal audios:
+
+[41, 145]
+    audio name = 4446-2275-0037.wav, index = 145, energy = 0.000032
+[291, 302]
+    audio name = 4446-2273-0019.wav, index = 302, energy = 0.000033
+[1088, 233]
+    audio name = 4446-2273-0010.wav, index = 233, energy = 0.000022
+[314, 16]
+    audio name = 4446-2273-0008.wav, index = 16, energy = 0.000024
+[112, 131]
+    audio name = 4446-2271-0009.wav, index = 131, energy = 0.000005
+[10, 5]
+    audio name = 4446-2275-0004.wav, index = 5, energy = 0.000026
+[11, 1]
+    audio name = 4446-2275-0009.wav, index = 1, energy = 0.000032
+[142, 15]
+    audio name = 4446-2275-0032.wav, index = 15, energy = 0.000033
+[7, 136]
+    audio name = 4446-2271-0002.wav, index = 136, energy = 0.000009
+[13, 32]
+    audio name = 4446-2275-0029.wav, index = 32, energy = 0.000024
+[733, 497]
+    audio name = 4446-2275-0002.wav, index = 497, energy = 0.000027
+[125, 483]
+    audio name = 4446-2271-0004.wav, index = 483, energy = 0.000006
+[352, 362]
+    audio name = 4446-2273-0022.wav, index = 362, energy = 0.000018
+[1, 605]
+    audio name = 4446-2275-0007.wav, index = 605, energy = 0.000035
+[528, 12]
+    audio name = 4446-2271-0008.wav, index = 12, energy = 0.000008
+[341, 364]
+    audio name = 4446-2271-0003.wav, index = 364, energy = 0.000008
+[34, 14]
+    audio name = 4446-2273-0015.wav, index = 14, energy = 0.000019
+[360, 245]
+    audio name = 4446-2273-0025.wav, index = 245, energy = 0.000043
+[0, 10]
+    audio name = 4446-2275-0010.wav, index = 10, energy = 0.000029
+[11, 373]
+    audio name = 4446-2271-0012.wav, index = 373, energy = 0.000009
+[17, 204]
+    audio name = 4446-2275-0025.wav, index = 204, energy = 0.000031
+[63, 58]
+    audio name = 4446-2271-0022.wav, index = 58, energy = 0.000008
+[29, 19]
+    audio name = 4446-2273-0005.wav, index = 19, energy = 0.000043
+[186, 17]
+    audio name = 4446-2275-0039.wav, index = 17, energy = 0.000033
+[88, 101]
+    audio name = 4446-2271-0014.wav, index = 101, energy = 0.000007
+[186, 304]
+    audio name = 4446-2271-0000.wav, index = 304, energy = 0.000007
+[8, 310]
+    audio name = 4446-2271-0005.wav, index = 310, energy = 0.000009
+[185, 339]
+    audio name = 4446-2275-0028.wav, index = 339, energy = 0.000036
+[94, 142]
+    audio name = 4446-2273-0026.wav, index = 142, energy = 0.000043
+[90, 294]
+    audio name = 4446-2271-0010.wav, index = 294, energy = 0.000009
+[600, 593]
+    audio name = 4446-2273-0023.wav, index = 593, energy = 0.000038
+[5, 0]
+    audio name = 4446-2273-0012.wav, index = 0, energy = 0.000032
+[328, 353]
+    audio name = 4446-2273-0034.wav, index = 353, energy = 0.000018
+[590, 29]
+    audio name = 4446-2271-0001.wav, index = 29, energy = 0.000007
+[23, 13]
+    audio name = 4446-2275-0035.wav, index = 13, energy = 0.000029
+[287, 16]
+    audio name = 4446-2275-0034.wav, index = 16, energy = 0.000034
+[254, 268]
+    audio name = 4446-2273-0011.wav, index = 268, energy = 0.000021
+[24, 397]
+    audio name = 4446-2273-0021.wav, index = 397, energy = 0.000021
+[530, 24]
+    audio name = 4446-2271-0020.wav, index = 24, energy = 0.000006
+[224, 220]
+    audio name = 4446-2275-0018.wav, index = 220, energy = 0.000030
+[114, 94]
+    audio name = 4446-2271-0023.wav, index = 94, energy = 0.000008
+[586, 201]
+    audio name = 4446-2275-0012.wav, index = 201, energy = 0.000029
+[276, 23]
+    audio name = 4446-2271-0006.wav, index = 23, energy = 0.000008
+[231, 134]
+    audio name = 4446-2275-0017.wav, index = 134, energy = 0.000032
+[443, 555]
+    audio name = 4446-2275-0000.wav, index = 555, energy = 0.000032
+[4, 299]
+    audio name = 4446-2275-0043.wav, index = 299, energy = 0.000030
+[385, 37]
+    audio name = 4446-2271-0018.wav, index = 37, energy = 0.000005
+[347, 41]
+    audio name = 4446-2275-0013.wav, index = 41, energy = 0.000030
+[551, 421]
+    audio name = 4446-2273-0032.wav, index = 421, energy = 0.000030
+[3, 11]
+    audio name = 4446-2275-0016.wav, index = 11, energy = 0.000028
+[98, 112]
+    audio name = 4446-2271-0024.wav, index = 112, energy = 0.000008
+[465, 40]
+    audio name = 4446-2275-0041.wav, index = 40, energy = 0.000024
+[27, 14]
+    audio name = 4446-2273-0018.wav, index = 14, energy = 0.000022
+[239, 273]
+    audio name = 4446-2273-0016.wav, index = 273, energy = 0.000023
+[89, 83]
+    audio name = 4446-2275-0006.wav, index = 83, energy = 0.000055
+[328, 505]
+    audio name = 4446-2271-0017.wav, index = 505, energy = 0.000006
+[24, 19]
+    audio name = 4446-2273-0017.wav, index = 19, energy = 0.000044
+[331, 367]
+    audio name = 4446-2273-0035.wav, index = 367, energy = 0.000022
+[874, 887]
+    audio name = 4446-2273-0000.wav, index = 887, energy = 0.000020
+[12, 44]
+    audio name = 4446-2275-0011.wav, index = 44, energy = 0.000033
+[12, 40]
+    audio name = 4446-2273-0003.wav, index = 40, energy = 0.000021
+[49, 35]
+    audio name = 4446-2273-0033.wav, index = 35, energy = 0.000021
+[310, 200]
+    audio name = 4446-2273-0029.wav, index = 200, energy = 0.000024
+[310, 302]
+    audio name = 4446-2275-0022.wav, index = 302, energy = 0.000029
+[25, 19]
+    audio name = 4446-2275-0019.wav, index = 19, energy = 0.000028
+[21, 215]
+    audio name = 4446-2273-0014.wav, index = 215, energy = 0.000053
+[432, 421]
+    audio name = 4446-2275-0038.wav, index = 421, energy = 0.000031
+[91, 20]
+    audio name = 4446-2275-0040.wav, index = 20, energy = 0.000030
+[13, 21]
+    audio name = 4446-2273-0028.wav, index = 21, energy = 0.000025
+[506, 529]
+    audio name = 4446-2273-0004.wav, index = 529, energy = 0.000017
+[26, 91]
+    audio name = 4446-2271-0007.wav, index = 91, energy = 0.000009
+[22, 246]
+    audio name = 4446-2275-0014.wav, index = 246, energy = 0.000028
+[157, 34]
+    audio name = 4446-2273-0030.wav, index = 34, energy = 0.000037
+[20, 50]
+    audio name = 4446-2271-0021.wav, index = 50, energy = 0.000009
+[258, 201]
+    audio name = 4446-2275-0026.wav, index = 201, energy = 0.000030
+[255, 263]
+    audio name = 4446-2275-0030.wav, index = 263, energy = 0.000032
+[280, 294]
+    audio name = 4446-2275-0027.wav, index = 294, energy = 0.000027
+[232, 227]
+    audio name = 4446-2273-0013.wav, index = 227, energy = 0.000038
+[261, 286]
+    audio name = 4446-2273-0036.wav, index = 286, energy = 0.000038
+[22, 194]
+    audio name = 4446-2275-0042.wav, index = 194, energy = 0.000027
+[21, 6]
+    audio name = 4446-2275-0031.wav, index = 6, energy = 0.000023
+[25, 285]
+    audio name = 4446-2275-0036.wav, index = 285, energy = 0.000049
+[383, 8]
+    audio name = 4446-2271-0011.wav, index = 8, energy = 0.000007
+[93, 206]
+    audio name = 4446-2271-0015.wav, index = 206, energy = 0.000007
+[74, 201]
+    audio name = 4446-2273-0002.wav, index = 201, energy = 0.000051
+[285, 23]
+    audio name = 4446-2275-0015.wav, index = 23, energy = 0.000031
+[0, 33]
+    audio name = 4446-2273-0020.wav, index = 33, energy = 0.000026
+[218, 354]
+    audio name = 4446-2273-0027.wav, index = 354, energy = 0.000050
+[258, 266]
+    audio name = 4446-2275-0020.wav, index = 266, energy = 0.000028
+[21, 54]
+    audio name = 4446-2275-0023.wav, index = 54, energy = 0.000020
+[4, 13]
+    audio name = 4446-2273-0006.wav, index = 13, energy = 0.000034
+[34, 282]
+    audio name = 4446-2271-0019.wav, index = 282, energy = 0.000006
+[294, 290]
+    audio name = 4446-2273-0007.wav, index = 290, energy = 0.000033
+[392, 750]
+    audio name = 4446-2271-0016.wav, index = 750, energy = 0.000006
+[329, 86]
+    audio name = 4446-2271-0013.wav, index = 86, energy = 0.000008
+[27, 9]
+    audio name = 4446-2275-0003.wav, index = 9, energy = 0.000028
+[2, 26]
+    audio name = 4446-2275-0001.wav, index = 26, energy = 0.000037
+[276, 306]
+    audio name = 4446-2273-0024.wav, index = 306, energy = 0.000037
+[418, 384]
+    audio name = 4446-2275-0005.wav, index = 384, energy = 0.000037
+[409, 301]
+    audio name = 4446-2275-0008.wav, index = 301, energy = 0.000028
+[119, 458]
+    audio name = 4446-2273-0001.wav, index = 458, energy = 0.000039
+[25, 236]
+    audio name = 4446-2275-0024.wav, index = 236, energy = 0.000041
+[639, 16]
+    audio name = 4446-2275-0033.wav, index = 16, energy = 0.000026
+[245, 221]
+    audio name = 4446-2273-0009.wav, index = 221, energy = 0.000043
+[154, 79]
+    audio name = 4446-2273-0031.wav, index = 79, energy = 0.000036
+
+  Results for adversarial audios:
+
+[23, 359]
+    audio name = 260-123286-0008.wav, index = 359, energy = 0.004655
+[0, 772]
+    audio name = 260-123286-0019.wav, index = 772, energy = 0.004571
+[30, 301]
+    audio name = 260-123286-0003.wav, index = 301, energy = 0.007147
+[23, 450]
+    audio name = 260-123286-0005.wav, index = 450, energy = 0.003874
+[0, 233]
+    audio name = 260-123286-0014.wav, index = 233, energy = 0.006079
+[20, 638]
+    audio name = 260-123286-0016.wav, index = 638, energy = 0.003914
+[21, 508]
+    audio name = 260-123286-0015.wav, index = 508, energy = 0.007008
+[0, 173]
+    audio name = 260-123286-0018.wav, index = 173, energy = 0.005856
+[6, 123]
+    audio name = 260-123286-0012.wav, index = 123, energy = 0.005933
+[6, 178]
+    audio name = 260-123286-0009.wav, index = 178, energy = 0.005942
+[4, 181]
+    audio name = 260-123286-0013.wav, index = 181, energy = 0.005451
+[0, 149]
+    audio name = 260-123286-0022.wav, index = 149, energy = 0.004309
+[1, 909]
+    audio name = 260-123286-0002.wav, index = 909, energy = 0.003944
+[0, 21]
+    audio name = 260-123286-0024.wav, index = 21, energy = 0.005328
+[0, 35]
+    audio name = 260-123286-0017.wav, index = 35, energy = 0.005534
+[25, 160]
+    audio name = 260-123286-0004.wav, index = 160, energy = 0.007806
+[583, 65]
+    audio name = 260-123286-0023.wav, index = 65, energy = 0.005309
+[0, 291]
+    audio name = 260-123286-0011.wav, index = 291, energy = 0.006126
+[451, 56]
+    audio name = 260-123286-0007.wav, index = 56, energy = 0.004358
+[0, 445]
+    audio name = 260-123286-0006.wav, index = 445, energy = 0.003841
+[19, 275]
+    audio name = 6829-68769-0017.wav, index = 275, energy = 0.006392
+[335, 13]
+    audio name = 6829-68769-0014.wav, index = 13, energy = 0.008758
+[260, 17]
+    audio name = 6829-68769-0010.wav, index = 17, energy = 0.007180
+[7, 525]
+    audio name = 6829-68769-0000.wav, index = 525, energy = 0.006588
+[365, 321]
+    audio name = 6829-68769-0005.wav, index = 321, energy = 0.006041
+[16, 6]
+    audio name = 6829-68769-0019.wav, index = 6, energy = 0.005428
+[14, 318]
+    audio name = 6829-68769-0003.wav, index = 318, energy = 0.007701
+[398, 238]
+    audio name = 6829-68769-0016.wav, index = 238, energy = 0.002125
+[462, 7]
+    audio name = 6829-68769-0024.wav, index = 7, energy = 0.005889
+[42, 20]
+    audio name = 6829-68769-0009.wav, index = 20, energy = 0.005090
+[302, 187]
+    audio name = 6829-68769-0011.wav, index = 187, energy = 0.007869
+[19, 190]
+    audio name = 6829-68769-0002.wav, index = 190, energy = 0.007193
+[13, 334]
+    audio name = 6829-68769-0015.wav, index = 334, energy = 0.005009
+[25, 190]
+    audio name = 6829-68769-0012.wav, index = 190, energy = 0.002175
+[913, 594]
+    audio name = 237-126133-0015.wav, index = 594, energy = 0.005546
+[481, 163]
+    audio name = 237-126133-0023.wav, index = 163, energy = 0.004941
+[31, 139]
+    audio name = 237-126133-0012.wav, index = 139, energy = 0.004062
+[1005, 403]
+    audio name = 237-126133-0001.wav, index = 403, energy = 0.003941
+[159, 88]
+    audio name = 237-126133-0018.wav, index = 88, energy = 0.007219
+[1143, 899]
+    audio name = 237-126133-0000.wav, index = 899, energy = 0.003959
+[690, 73]
+    audio name = 237-126133-0007.wav, index = 73, energy = 0.003981
+[314, 485]
+    audio name = 237-126133-0013.wav, index = 485, energy = 0.004997
+[609, 184]
+    audio name = 237-126133-0010.wav, index = 184, energy = 0.003554
+[198, 263]
+    audio name = 237-126133-0016.wav, index = 263, energy = 0.006167
+[381, 31]
+    audio name = 237-126133-0008.wav, index = 31, energy = 0.004773
+[45, 369]
+    audio name = 237-126133-0019.wav, index = 369, energy = 0.005224
+[285, 153]
+    audio name = 237-126133-0004.wav, index = 153, energy = 0.007244
+[384, 656]
+    audio name = 237-126133-0024.wav, index = 656, energy = 0.006042
+[36, 402]
+    audio name = 237-126133-0006.wav, index = 402, energy = 0.005372
+[462, 494]
+    audio name = 237-126133-0005.wav, index = 494, energy = 0.005731
+[479, 490]
+    audio name = 237-126133-0011.wav, index = 490, energy = 0.004092
+[133, 376]
+    audio name = 237-126133-0014.wav, index = 376, energy = 0.004705
+[382, 259]
+    audio name = 237-126133-0009.wav, index = 259, energy = 0.006103
+[15, 577]
+    audio name = 237-126133-0017.wav, index = 577, energy = 0.006772
+[623, 210]
+    audio name = 237-126133-0003.wav, index = 210, energy = 0.004499
+[885, 619]
+    audio name = 237-126133-0002.wav, index = 619, energy = 0.004754
+[206, 24]
+    audio name = 237-126133-0020.wav, index = 24, energy = 0.007032
+[9, 830]
+    audio name = 6930-75918-0020.wav, index = 830, energy = 0.004422
+[299, 6]
+    audio name = 6930-76324-0000.wav, index = 6, energy = 0.006902
+[1084, 1094]
+    audio name = 6930-75918-0004.wav, index = 1094, energy = 0.004803
+[50, 338]
+    audio name = 6930-76324-0002.wav, index = 338, energy = 0.005573
+[279, 198]
+    audio name = 6930-75918-0011.wav, index = 198, energy = 0.007333
+[606, 129]
+    audio name = 6930-75918-0017.wav, index = 129, energy = 0.004711
+[570, 545]
+    audio name = 6930-75918-0006.wav, index = 545, energy = 0.005420
+[342, 304]
+    audio name = 6930-75918-0000.wav, index = 304, energy = 0.008375
+[145, 32]
+    audio name = 6930-76324-0003.wav, index = 32, energy = 0.007216
+[280, 179]
+    audio name = 6930-75918-0010.wav, index = 179, energy = 0.006402
+[310, 9]
+    audio name = 6930-75918-0007.wav, index = 9, energy = 0.005523
+[1417, 103]
+    audio name = 6930-75918-0001.wav, index = 103, energy = 0.003333
+[983, 160]
+    audio name = 6930-75918-0016.wav, index = 160, energy = 0.003978
+[335, 443]
+    audio name = 6930-75918-0008.wav, index = 443, energy = 0.005715
+[373, 382]
+    audio name = 6930-75918-0015.wav, index = 382, energy = 0.003144
+[305, 13]
+    audio name = 6930-76324-0001.wav, index = 13, energy = 0.004863
+[2, 46]
+    audio name = 6930-75918-0013.wav, index = 46, energy = 0.006549
+[460, 122]
+    audio name = 6930-75918-0002.wav, index = 122, energy = 0.004656
+[34, 130]
+    audio name = 6930-75918-0014.wav, index = 130, energy = 0.003683
+[707, 568]
+    audio name = 6930-75918-0009.wav, index = 568, energy = 0.004605
+[1278, 1306]
+    audio name = 6930-75918-0005.wav, index = 1306, energy = 0.004916
+[1059, 965]
+    audio name = 6930-75918-0018.wav, index = 965, energy = 0.005451
+[189, 175]
+    audio name = 6930-75918-0012.wav, index = 175, energy = 0.007056
+[2301, 2313]
+    audio name = 6930-75918-0003.wav, index = 2313, energy = 0.004371
+[559, 713]
+    audio name = 6930-75918-0019.wav, index = 713, energy = 0.004579
+
+
+spk = 5142
+
+  Results for legal audios:
+
+[72, 242]
+    audio name = 5142-33396-0057.wav, index = 242, energy = 0.000003
+[309, 277]
+    audio name = 5142-33396-0068.wav, index = 277, energy = 0.000002
+[189, 173]
+    audio name = 5142-33396-0038.wav, index = 173, energy = 0.000012
+[729, 733]
+    audio name = 5142-36377-0025.wav, index = 733, energy = 0.000000
+[15, 22]
+    audio name = 5142-33396-0028.wav, index = 22, energy = 0.000011
+[13, 190]
+    audio name = 5142-33396-0048.wav, index = 190, energy = 0.000016
+[106, 195]
+    audio name = 5142-33396-0008.wav, index = 195, energy = 0.000014
+[76, 34]
+    audio name = 5142-33396-0029.wav, index = 34, energy = 0.000012
+[262, 268]
+    audio name = 5142-36377-0006.wav, index = 268, energy = 0.000005
+[126, 139]
+    audio name = 5142-36377-0007.wav, index = 139, energy = 0.000003
+[283, 595]
+    audio name = 5142-33396-0006.wav, index = 595, energy = 0.000013
+[145, 241]
+    audio name = 5142-33396-0058.wav, index = 241, energy = 0.000012
+[193, 343]
+    audio name = 5142-33396-0011.wav, index = 343, energy = 0.000014
+[269, 209]
+    audio name = 5142-33396-0043.wav, index = 209, energy = 0.000005
+[9, 24]
+    audio name = 5142-33396-0013.wav, index = 24, energy = 0.000015
+[407, 159]
+    audio name = 5142-36377-0005.wav, index = 159, energy = 0.000006
+[179, 147]
+    audio name = 5142-33396-0000.wav, index = 147, energy = 0.000013
+[127, 157]
+    audio name = 5142-33396-0027.wav, index = 157, energy = 0.000011
+[46, 184]
+    audio name = 5142-36586-0003.wav, index = 184, energy = 0.000002
+[87, 78]
+    audio name = 5142-36586-0004.wav, index = 78, energy = 0.000002
+[1048, 425]
+    audio name = 5142-36377-0021.wav, index = 425, energy = 0.000002
+[204, 288]
+    audio name = 5142-36377-0018.wav, index = 288, energy = 0.000025
+[439, 51]
+    audio name = 5142-33396-0033.wav, index = 51, energy = 0.000011
+[62, 101]
+    audio name = 5142-33396-0066.wav, index = 101, energy = 0.000012
+[168, 127]
+    audio name = 5142-33396-0004.wav, index = 127, energy = 0.000013
+[220, 336]
+    audio name = 5142-33396-0022.wav, index = 336, energy = 0.000007
+[171, 210]
+    audio name = 5142-33396-0016.wav, index = 210, energy = 0.000015
+[156, 271]
+    audio name = 5142-33396-0041.wav, index = 271, energy = 0.000012
+[51, 379]
+    audio name = 5142-33396-0024.wav, index = 379, energy = 0.000009
+[291, 119]
+    audio name = 5142-33396-0025.wav, index = 119, energy = 0.000012
+[381, 240]
+    audio name = 5142-33396-0044.wav, index = 240, energy = 0.000004
+[212, 5]
+    audio name = 5142-36377-0012.wav, index = 5, energy = 0.000006
+[10, 14]
+    audio name = 5142-36377-0008.wav, index = 14, energy = 0.000000
+[426, 68]
+    audio name = 5142-33396-0067.wav, index = 68, energy = 0.000001
+[31, 213]
+    audio name = 5142-33396-0017.wav, index = 213, energy = 0.000013
+[550, 110]
+    audio name = 5142-33396-0032.wav, index = 110, energy = 0.000012
+[243, 261]
+    audio name = 5142-33396-0042.wav, index = 261, energy = 0.000006
+[46, 41]
+    audio name = 5142-33396-0062.wav, index = 41, energy = 0.000003
+[195, 188]
+    audio name = 5142-33396-0061.wav, index = 188, energy = 0.000016
+[21, 148]
+    audio name = 5142-33396-0023.wav, index = 148, energy = 0.000014
+[5, 0]
+    audio name = 5142-36377-0023.wav, index = 0, energy = 0.000001
+[358, 285]
+    audio name = 5142-33396-0007.wav, index = 285, energy = 0.000013
+[227, 27]
+    audio name = 5142-33396-0001.wav, index = 27, energy = 0.000014
+[616, 550]
+    audio name = 5142-36377-0013.wav, index = 550, energy = 0.000004
+[0, 4]
+    audio name = 5142-36377-0024.wav, index = 4, energy = 0.000000
+[15, 19]
+    audio name = 5142-36377-0019.wav, index = 19, energy = 0.000000
+[548, 686]
+    audio name = 5142-33396-0031.wav, index = 686, energy = 0.000008
+[95, 9]
+    audio name = 5142-36377-0011.wav, index = 9, energy = 0.000004
+[430, 224]
+    audio name = 5142-33396-0052.wav, index = 224, energy = 0.000008
+[0, 4]
+    audio name = 5142-36377-0017.wav, index = 4, energy = 0.000000
+[344, 36]
+    audio name = 5142-33396-0053.wav, index = 36, energy = 0.000006
+[58, 63]
+    audio name = 5142-33396-0040.wav, index = 63, energy = 0.000010
+[1068, 53]
+    audio name = 5142-36377-0022.wav, index = 53, energy = 0.000003
+[188, 47]
+    audio name = 5142-33396-0060.wav, index = 47, energy = 0.000014
+[297, 165]
+    audio name = 5142-33396-0035.wav, index = 165, energy = 0.000015
+[52, 47]
+    audio name = 5142-36377-0003.wav, index = 47, energy = 0.000005
+[76, 308]
+    audio name = 5142-33396-0012.wav, index = 308, energy = 0.000011
+[229, 19]
+    audio name = 5142-33396-0030.wav, index = 19, energy = 0.000013
+[171, 33]
+    audio name = 5142-36600-0000.wav, index = 33, energy = 0.000001
+[319, 212]
+    audio name = 5142-36377-0010.wav, index = 212, energy = 0.000006
+[47, 82]
+    audio name = 5142-36377-0015.wav, index = 82, energy = 0.000008
+[198, 21]
+    audio name = 5142-33396-0059.wav, index = 21, energy = 0.000012
+[195, 325]
+    audio name = 5142-33396-0064.wav, index = 325, energy = 0.000011
+[140, 121]
+    audio name = 5142-36586-0002.wav, index = 121, energy = 0.000013
+[215, 304]
+    audio name = 5142-33396-0046.wav, index = 304, energy = 0.000011
+[536, 343]
+    audio name = 5142-33396-0034.wav, index = 343, energy = 0.000006
+[246, 206]
+    audio name = 5142-33396-0036.wav, index = 206, energy = 0.000013
+[90, 233]
+    audio name = 5142-33396-0056.wav, index = 233, energy = 0.000012
+[42, 152]
+    audio name = 5142-33396-0009.wav, index = 152, energy = 0.000012
+[97, 141]
+    audio name = 5142-36377-0000.wav, index = 141, energy = 0.000005
+[11, 18]
+    audio name = 5142-36586-0000.wav, index = 18, energy = 0.000000
+[119, 174]
+    audio name = 5142-33396-0045.wav, index = 174, energy = 0.000007
+[181, 2]
+    audio name = 5142-36377-0016.wav, index = 2, energy = 0.000016
+[192, 0]
+    audio name = 5142-33396-0039.wav, index = 0, energy = 0.000016
+[166, 24]
+    audio name = 5142-36377-0004.wav, index = 24, energy = 0.000004
+[207, 313]
+    audio name = 5142-33396-0020.wav, index = 313, energy = 0.000011
+[210, 306]
+    audio name = 5142-33396-0014.wav, index = 306, energy = 0.000012
+[323, 32]
+    audio name = 5142-33396-0015.wav, index = 32, energy = 0.000009
+[43, 60]
+    audio name = 5142-36377-0002.wav, index = 60, energy = 0.000004
+[88, 218]
+    audio name = 5142-33396-0049.wav, index = 218, energy = 0.000011
+[4, 0]
+    audio name = 5142-36377-0009.wav, index = 0, energy = 0.000001
+[234, 11]
+    audio name = 5142-33396-0026.wav, index = 11, energy = 0.000014
+[7, 146]
+    audio name = 5142-33396-0065.wav, index = 146, energy = 0.000007
+[353, 295]
+    audio name = 5142-33396-0002.wav, index = 295, energy = 0.000014
+[451, 35]
+    audio name = 5142-33396-0019.wav, index = 35, energy = 0.000012
+[62, 161]
+    audio name = 5142-33396-0021.wav, index = 161, energy = 0.000012
+[0, 65]
+    audio name = 5142-36377-0020.wav, index = 65, energy = 0.000001
+[31, 79]
+    audio name = 5142-36586-0001.wav, index = 79, energy = 0.000004
+[39, 208]
+    audio name = 5142-33396-0055.wav, index = 208, energy = 0.000012
+[80, 87]
+    audio name = 5142-33396-0018.wav, index = 87, energy = 0.000013
+[39, 54]
+    audio name = 5142-33396-0010.wav, index = 54, energy = 0.000010
+[16, 100]
+    audio name = 5142-33396-0063.wav, index = 100, energy = 0.000012
+[1881, 478]
+    audio name = 5142-36377-0014.wav, index = 478, energy = 0.000002
+[42, 46]
+    audio name = 5142-36377-0001.wav, index = 46, energy = 0.000006
+[145, 24]
+    audio name = 5142-33396-0050.wav, index = 24, energy = 0.000014
+[7, 42]
+    audio name = 5142-33396-0005.wav, index = 42, energy = 0.000013
+[281, 53]
+    audio name = 5142-33396-0003.wav, index = 53, energy = 0.000010
+[77, 272]
+    audio name = 5142-33396-0054.wav, index = 272, energy = 0.000006
+[235, 140]
+    audio name = 5142-33396-0047.wav, index = 140, energy = 0.000012
+[91, 295]
+    audio name = 5142-33396-0037.wav, index = 295, energy = 0.000010
+
+  Results for adversarial audios:
+
+[23, 69]
+    audio name = 260-123286-0008.wav, index = 69, energy = 0.004599
+[0, 128]
+    audio name = 260-123286-0019.wav, index = 128, energy = 0.003509
+[30, 311]
+    audio name = 260-123286-0003.wav, index = 311, energy = 0.003929
+[23, 425]
+    audio name = 260-123286-0005.wav, index = 425, energy = 0.004007
+[0, 282]
+    audio name = 260-123286-0014.wav, index = 282, energy = 0.005641
+[20, 11]
+    audio name = 260-123286-0016.wav, index = 11, energy = 0.003484
+[21, 259]
+    audio name = 260-123286-0015.wav, index = 259, energy = 0.003516
+[19, 211]
+    audio name = 260-123286-0021.wav, index = 211, energy = 0.004122
+[0, 431]
+    audio name = 260-123286-0018.wav, index = 431, energy = 0.003816
+[20, 44]
+    audio name = 260-123286-0001.wav, index = 44, energy = 0.002951
+[6, 43]
+    audio name = 260-123286-0012.wav, index = 43, energy = 0.004082
+[6, 30]
+    audio name = 260-123286-0009.wav, index = 30, energy = 0.003938
+[0, 225]
+    audio name = 260-123286-0010.wav, index = 225, energy = 0.003911
+[4, 33]
+    audio name = 260-123286-0013.wav, index = 33, energy = 0.004318
+[0, 103]
+    audio name = 260-123286-0020.wav, index = 103, energy = 0.003524
+[0, 39]
+    audio name = 260-123286-0022.wav, index = 39, energy = 0.004478
+[1, 963]
+    audio name = 260-123286-0002.wav, index = 963, energy = 0.002168
+[0, 130]
+    audio name = 260-123286-0024.wav, index = 130, energy = 0.005022
+[0, 16]
+    audio name = 260-123286-0017.wav, index = 16, energy = 0.004654
+[25, 42]
+    audio name = 260-123286-0004.wav, index = 42, energy = 0.002151
+[583, 18]
+    audio name = 260-123286-0023.wav, index = 18, energy = 0.005057
+[0, 279]
+    audio name = 260-123286-0011.wav, index = 279, energy = 0.003513
+[451, 4]
+    audio name = 260-123286-0007.wav, index = 4, energy = 0.004452
+[0, 663]
+    audio name = 260-123286-0000.wav, index = 663, energy = 0.003478
+[0, 467]
+    audio name = 260-123286-0006.wav, index = 467, energy = 0.002876
+[434, 3]
+    audio name = 6829-68769-0008.wav, index = 3, energy = 0.005410
+[421, 259]
+    audio name = 6829-68769-0001.wav, index = 259, energy = 0.004200
+[19, 194]
+    audio name = 6829-68769-0017.wav, index = 194, energy = 0.004030
+[25, 364]
+    audio name = 6829-68769-0006.wav, index = 364, energy = 0.004682
+[335, 262]
+    audio name = 6829-68769-0014.wav, index = 262, energy = 0.005643
+[18, 483]
+    audio name = 6829-68769-0020.wav, index = 483, energy = 0.004331
+[223, 395]
+    audio name = 6829-68769-0022.wav, index = 395, energy = 0.005069
+[260, 34]
+    audio name = 6829-68769-0010.wav, index = 34, energy = 0.006797
+[7, 464]
+    audio name = 6829-68769-0000.wav, index = 464, energy = 0.004299
+[365, 360]
+    audio name = 6829-68769-0005.wav, index = 360, energy = 0.004242
+[16, 257]
+    audio name = 6829-68769-0019.wav, index = 257, energy = 0.004941
+[26, 179]
+    audio name = 6829-68769-0018.wav, index = 179, energy = 0.002907
+[22, 709]
+    audio name = 6829-68769-0004.wav, index = 709, energy = 0.004296
+[14, 85]
+    audio name = 6829-68769-0007.wav, index = 85, energy = 0.005086
+[178, 248]
+    audio name = 6829-68769-0013.wav, index = 248, energy = 0.004090
+[14, 108]
+    audio name = 6829-68769-0003.wav, index = 108, energy = 0.004944
+[354, 107]
+    audio name = 6829-68769-0023.wav, index = 107, energy = 0.004303
+[398, 367]
+    audio name = 6829-68769-0016.wav, index = 367, energy = 0.003982
+[462, 181]
+    audio name = 6829-68769-0024.wav, index = 181, energy = 0.004269
+[42, 119]
+    audio name = 6829-68769-0009.wav, index = 119, energy = 0.002384
+[302, 434]
+    audio name = 6829-68769-0011.wav, index = 434, energy = 0.003323
+[19, 184]
+    audio name = 6829-68769-0002.wav, index = 184, energy = 0.004221
+[13, 5]
+    audio name = 6829-68769-0015.wav, index = 5, energy = 0.004774
+[25, 105]
+    audio name = 6829-68769-0012.wav, index = 105, energy = 0.004309
+[289, 704]
+    audio name = 6829-68769-0021.wav, index = 704, energy = 0.003022
+[481, 363]
+    audio name = 237-126133-0023.wav, index = 363, energy = 0.003600
+[31, 27]
+    audio name = 237-126133-0012.wav, index = 27, energy = 0.004453
+[1005, 1089]
+    audio name = 237-126133-0001.wav, index = 1089, energy = 0.003464
+[159, 169]
+    audio name = 237-126133-0018.wav, index = 169, energy = 0.004768
+[1143, 605]
+    audio name = 237-126133-0000.wav, index = 605, energy = 0.004076
+[690, 624]
+    audio name = 237-126133-0007.wav, index = 624, energy = 0.004198
+[314, 15]
+    audio name = 237-126133-0013.wav, index = 15, energy = 0.004393
+[381, 62]
+    audio name = 237-126133-0008.wav, index = 62, energy = 0.005505
+[45, 387]
+    audio name = 237-126133-0019.wav, index = 387, energy = 0.004602
+[384, 54]
+    audio name = 237-126133-0024.wav, index = 54, energy = 0.003573
+[389, 276]
+    audio name = 237-126133-0022.wav, index = 276, energy = 0.006056
+[462, 152]
+    audio name = 237-126133-0005.wav, index = 152, energy = 0.003648
+[479, 516]
+    audio name = 237-126133-0011.wav, index = 516, energy = 0.003580
+[133, 654]
+    audio name = 237-126133-0014.wav, index = 654, energy = 0.004992
+[382, 258]
+    audio name = 237-126133-0009.wav, index = 258, energy = 0.003754
+[15, 550]
+    audio name = 237-126133-0017.wav, index = 550, energy = 0.005112
+[623, 360]
+    audio name = 237-126133-0003.wav, index = 360, energy = 0.004715
+[885, 85]
+    audio name = 237-126133-0002.wav, index = 85, energy = 0.004773
+[206, 168]
+    audio name = 237-126133-0020.wav, index = 168, energy = 0.007521
+[9, 359]
+    audio name = 6930-75918-0020.wav, index = 359, energy = 0.003185
+[299, 0]
+    audio name = 6930-76324-0000.wav, index = 0, energy = 0.003924
+[1084, 259]
+    audio name = 6930-75918-0004.wav, index = 259, energy = 0.003243
+[50, 68]
+    audio name = 6930-76324-0002.wav, index = 68, energy = 0.003489
+[279, 214]
+    audio name = 6930-75918-0011.wav, index = 214, energy = 0.004552
+[606, 346]
+    audio name = 6930-75918-0017.wav, index = 346, energy = 0.003932
+[570, 37]
+    audio name = 6930-75918-0006.wav, index = 37, energy = 0.003498
+[342, 313]
+    audio name = 6930-75918-0000.wav, index = 313, energy = 0.006159
+[145, 224]
+    audio name = 6930-76324-0003.wav, index = 224, energy = 0.002569
+[280, 15]
+    audio name = 6930-75918-0010.wav, index = 15, energy = 0.003462
+[310, 102]
+    audio name = 6930-75918-0007.wav, index = 102, energy = 0.004877
+[1417, 1129]
+    audio name = 6930-75918-0001.wav, index = 1129, energy = 0.003418
+[983, 792]
+    audio name = 6930-75918-0016.wav, index = 792, energy = 0.002509
+[335, 216]
+    audio name = 6930-75918-0008.wav, index = 216, energy = 0.003824
+[373, 12]
+    audio name = 6930-75918-0015.wav, index = 12, energy = 0.002902
+[305, 225]
+    audio name = 6930-76324-0001.wav, index = 225, energy = 0.002877
+[2, 265]
+    audio name = 6930-75918-0013.wav, index = 265, energy = 0.003000
+[460, 499]
+    audio name = 6930-75918-0002.wav, index = 499, energy = 0.003711
+[34, 1467]
+    audio name = 6930-75918-0014.wav, index = 1467, energy = 0.003101
+[707, 613]
+    audio name = 6930-75918-0009.wav, index = 613, energy = 0.003365
+[1278, 970]
+    audio name = 6930-75918-0005.wav, index = 970, energy = 0.003533
+[1059, 358]
+    audio name = 6930-75918-0018.wav, index = 358, energy = 0.003261
+[189, 35]
+    audio name = 6930-75918-0012.wav, index = 35, energy = 0.004437
+[2301, 1960]
+    audio name = 6930-75918-0003.wav, index = 1960, energy = 0.003064
+[559, 1085]
+    audio name = 6930-75918-0019.wav, index = 1085, energy = 0.003410
+
+
+spk = 61
+
+  Results for legal audios:
+
+[22, 249]
+    audio name = 61-70968-0051.wav, index = 249, energy = 0.000071
+[34, 253]
+    audio name = 61-70968-0025.wav, index = 253, energy = 0.000137
+[21, 26]
+    audio name = 61-70970-0026.wav, index = 26, energy = 0.000121
+[105, 538]
+    audio name = 61-70968-0050.wav, index = 538, energy = 0.000112
+[28, 400]
+    audio name = 61-70968-0034.wav, index = 400, energy = 0.000164
+[3, 267]
+    audio name = 61-70968-0044.wav, index = 267, energy = 0.000128
+[11, 32]
+    audio name = 61-70968-0040.wav, index = 32, energy = 0.000122
+[31, 41]
+    audio name = 61-70968-0053.wav, index = 41, energy = 0.000117
+[48, 7]
+    audio name = 61-70968-0032.wav, index = 7, energy = 0.000151
+[34, 5]
+    audio name = 61-70968-0046.wav, index = 5, energy = 0.000144
+[11, 231]
+    audio name = 61-70968-0005.wav, index = 231, energy = 0.000102
+[298, 314]
+    audio name = 61-70970-0014.wav, index = 314, energy = 0.000129
+[202, 191]
+    audio name = 61-70968-0039.wav, index = 191, energy = 0.000103
+[9, 1]
+    audio name = 61-70970-0021.wav, index = 1, energy = 0.000120
+[4, 310]
+    audio name = 61-70968-0028.wav, index = 310, energy = 0.000139
+[105, 702]
+    audio name = 61-70968-0014.wav, index = 702, energy = 0.000117
+[185, 28]
+    audio name = 61-70970-0005.wav, index = 28, energy = 0.000134
+[470, 369]
+    audio name = 61-70968-0047.wav, index = 369, energy = 0.000142
+[266, 1001]
+    audio name = 61-70970-0038.wav, index = 1001, energy = 0.000116
+[213, 411]
+    audio name = 61-70970-0016.wav, index = 411, energy = 0.000124
+[182, 237]
+    audio name = 61-70968-0062.wav, index = 237, energy = 0.000149
+[34, 4]
+    audio name = 61-70968-0011.wav, index = 4, energy = 0.000100
+[183, 359]
+    audio name = 61-70970-0019.wav, index = 359, energy = 0.000121
+[343, 575]
+    audio name = 61-70968-0027.wav, index = 575, energy = 0.000120
+[615, 363]
+    audio name = 61-70970-0025.wav, index = 363, energy = 0.000122
+[359, 12]
+    audio name = 61-70970-0028.wav, index = 12, energy = 0.000120
+[29, 89]
+    audio name = 61-70970-0008.wav, index = 89, energy = 0.000132
+[282, 478]
+    audio name = 61-70968-0057.wav, index = 478, energy = 0.000096
+[301, 315]
+    audio name = 61-70970-0030.wav, index = 315, energy = 0.000153
+[6, 1]
+    audio name = 61-70968-0038.wav, index = 1, energy = 0.000138
+[265, 106]
+    audio name = 61-70968-0002.wav, index = 106, energy = 0.000105
+[288, 281]
+    audio name = 61-70968-0006.wav, index = 281, energy = 0.000132
+[21, 366]
+    audio name = 61-70970-0023.wav, index = 366, energy = 0.000118
+[222, 503]
+    audio name = 61-70968-0033.wav, index = 503, energy = 0.000112
+[600, 639]
+    audio name = 61-70970-0039.wav, index = 639, energy = 0.000137
+[17, 354]
+    audio name = 61-70968-0061.wav, index = 354, energy = 0.000113
+[10, 232]
+    audio name = 61-70968-0008.wav, index = 232, energy = 0.000114
+[4, 0]
+    audio name = 61-70968-0017.wav, index = 0, energy = 0.000000
+[110, 184]
+    audio name = 61-70968-0016.wav, index = 184, energy = 0.000152
+[475, 14]
+    audio name = 61-70970-0027.wav, index = 14, energy = 0.000148
+[587, 26]
+    audio name = 61-70970-0000.wav, index = 26, energy = 0.000143
+[14, 40]
+    audio name = 61-70970-0035.wav, index = 40, energy = 0.000120
+[384, 391]
+    audio name = 61-70968-0055.wav, index = 391, energy = 0.000132
+[270, 7]
+    audio name = 61-70968-0042.wav, index = 7, energy = 0.000122
+[47, 396]
+    audio name = 61-70968-0009.wav, index = 396, energy = 0.000118
+[287, 18]
+    audio name = 61-70968-0031.wav, index = 18, energy = 0.000154
+[30, 16]
+    audio name = 61-70970-0034.wav, index = 16, energy = 0.000126
+[5, 179]
+    audio name = 61-70968-0048.wav, index = 179, energy = 0.000142
+[461, 385]
+    audio name = 61-70968-0000.wav, index = 385, energy = 0.000130
+[31, 2]
+    audio name = 61-70968-0012.wav, index = 2, energy = 0.000136
+[101, 244]
+    audio name = 61-70968-0029.wav, index = 244, energy = 0.000139
+[11, 427]
+    audio name = 61-70968-0013.wav, index = 427, energy = 0.000126
+[38, 10]
+    audio name = 61-70968-0023.wav, index = 10, energy = 0.000119
+[37, 30]
+    audio name = 61-70968-0015.wav, index = 30, energy = 0.000122
+[292, 349]
+    audio name = 61-70968-0060.wav, index = 349, energy = 0.000142
+[43, 39]
+    audio name = 61-70970-0007.wav, index = 39, energy = 0.000099
+[809, 340]
+    audio name = 61-70970-0015.wav, index = 340, energy = 0.000103
+[776, 465]
+    audio name = 61-70968-0054.wav, index = 465, energy = 0.000111
+[481, 271]
+    audio name = 61-70968-0024.wav, index = 271, energy = 0.000111
+[268, 396]
+    audio name = 61-70970-0029.wav, index = 396, energy = 0.000097
+[29, 23]
+    audio name = 61-70968-0052.wav, index = 23, energy = 0.000120
+[9, 276]
+    audio name = 61-70968-0036.wav, index = 276, energy = 0.000138
+[242, 265]
+    audio name = 61-70968-0021.wav, index = 265, energy = 0.000142
+[28, 670]
+    audio name = 61-70968-0043.wav, index = 670, energy = 0.000119
+[26, 672]
+    audio name = 61-70970-0036.wav, index = 672, energy = 0.000108
+[240, 3]
+    audio name = 61-70970-0018.wav, index = 3, energy = 0.000122
+[464, 104]
+    audio name = 61-70970-0020.wav, index = 104, energy = 0.000110
+[352, 124]
+    audio name = 61-70970-0003.wav, index = 124, energy = 0.000116
+[39, 24]
+    audio name = 61-70968-0056.wav, index = 24, energy = 0.000158
+[594, 460]
+    audio name = 61-70970-0024.wav, index = 460, energy = 0.000116
+[392, 595]
+    audio name = 61-70970-0001.wav, index = 595, energy = 0.000123
+[11, 496]
+    audio name = 61-70968-0035.wav, index = 496, energy = 0.000135
+[821, 528]
+    audio name = 61-70968-0010.wav, index = 528, energy = 0.000114
+[655, 479]
+    audio name = 61-70968-0041.wav, index = 479, energy = 0.000112
+[274, 0]
+    audio name = 61-70970-0010.wav, index = 0, energy = 0.000117
+[143, 324]
+    audio name = 61-70970-0033.wav, index = 324, energy = 0.000134
+[305, 9]
+    audio name = 61-70968-0004.wav, index = 9, energy = 0.000109
+[16, 24]
+    audio name = 61-70968-0007.wav, index = 24, energy = 0.000130
+[27, 21]
+    audio name = 61-70968-0026.wav, index = 21, energy = 0.000126
+[378, 370]
+    audio name = 61-70970-0022.wav, index = 370, energy = 0.000145
+[52, 6]
+    audio name = 61-70968-0049.wav, index = 6, energy = 0.000119
+[36, 30]
+    audio name = 61-70968-0022.wav, index = 30, energy = 0.000128
+[289, 19]
+    audio name = 61-70970-0012.wav, index = 19, energy = 0.000137
+[33, 408]
+    audio name = 61-70970-0011.wav, index = 408, energy = 0.000117
+[191, 198]
+    audio name = 61-70968-0059.wav, index = 198, energy = 0.000089
+[323, 17]
+    audio name = 61-70968-0045.wav, index = 17, energy = 0.000104
+[530, 50]
+    audio name = 61-70970-0037.wav, index = 50, energy = 0.000131
+[413, 107]
+    audio name = 61-70970-0040.wav, index = 107, energy = 0.000137
+[420, 403]
+    audio name = 61-70968-0003.wav, index = 403, energy = 0.000100
+[229, 37]
+    audio name = 61-70968-0019.wav, index = 37, energy = 0.000113
+[144, 8]
+    audio name = 61-70970-0009.wav, index = 8, energy = 0.000118
+[292, 234]
+    audio name = 61-70968-0020.wav, index = 234, energy = 0.000144
+[26, 16]
+    audio name = 61-70970-0031.wav, index = 16, energy = 0.000126
+[1020, 1024]
+    audio name = 61-70970-0004.wav, index = 1024, energy = 0.000111
+[28, 423]
+    audio name = 61-70970-0013.wav, index = 423, energy = 0.000119
+[222, 64]
+    audio name = 61-70968-0018.wav, index = 64, energy = 0.000143
+[138, 220]
+    audio name = 61-70970-0006.wav, index = 220, energy = 0.000124
+[1, 17]
+    audio name = 61-70968-0001.wav, index = 17, energy = 0.000142
+[29, 20]
+    audio name = 61-70968-0058.wav, index = 20, energy = 0.000158
+[424, 16]
+    audio name = 61-70968-0037.wav, index = 16, energy = 0.000117
+[51, 257]
+    audio name = 61-70970-0002.wav, index = 257, energy = 0.000113
+[287, 73]
+    audio name = 61-70970-0032.wav, index = 73, energy = 0.000155
+[213, 248]
+    audio name = 61-70970-0017.wav, index = 248, energy = 0.000105
+
+  Results for adversarial audios:
+
+[23, 177]
+    audio name = 260-123286-0008.wav, index = 177, energy = 0.004302
+[0, 1155]
+    audio name = 260-123286-0019.wav, index = 1155, energy = 0.004070
+[30, 287]
+    audio name = 260-123286-0003.wav, index = 287, energy = 0.005125
+[23, 259]
+    audio name = 260-123286-0005.wav, index = 259, energy = 0.006569
+[0, 34]
+    audio name = 260-123286-0014.wav, index = 34, energy = 0.008195
+[20, 32]
+    audio name = 260-123286-0016.wav, index = 32, energy = 0.005190
+[21, 344]
+    audio name = 260-123286-0015.wav, index = 344, energy = 0.005496
+[19, 249]
+    audio name = 260-123286-0021.wav, index = 249, energy = 0.005166
+[0, 561]
+    audio name = 260-123286-0018.wav, index = 561, energy = 0.006248
+[20, 292]
+    audio name = 260-123286-0001.wav, index = 292, energy = 0.006741
+[6, 93]
+    audio name = 260-123286-0012.wav, index = 93, energy = 0.007368
+[6, 311]
+    audio name = 260-123286-0009.wav, index = 311, energy = 0.005594
+[0, 117]
+    audio name = 260-123286-0010.wav, index = 117, energy = 0.004848
+[4, 431]
+    audio name = 260-123286-0013.wav, index = 431, energy = 0.006070
+[0, 35]
+    audio name = 260-123286-0020.wav, index = 35, energy = 0.004681
+[0, 130]
+    audio name = 260-123286-0022.wav, index = 130, energy = 0.002420
+[1, 136]
+    audio name = 260-123286-0002.wav, index = 136, energy = 0.003901
+[0, 56]
+    audio name = 260-123286-0024.wav, index = 56, energy = 0.005679
+[0, 375]
+    audio name = 260-123286-0017.wav, index = 375, energy = 0.005965
+[25, 48]
+    audio name = 260-123286-0004.wav, index = 48, energy = 0.005355
+[583, 576]
+    audio name = 260-123286-0023.wav, index = 576, energy = 0.005582
+[0, 404]
+    audio name = 260-123286-0011.wav, index = 404, energy = 0.006098
+[451, 188]
+    audio name = 260-123286-0007.wav, index = 188, energy = 0.005853
+[0, 580]
+    audio name = 260-123286-0000.wav, index = 580, energy = 0.006050
+[0, 735]
+    audio name = 260-123286-0006.wav, index = 735, energy = 0.004514
+[434, 15]
+    audio name = 6829-68769-0008.wav, index = 15, energy = 0.006688
+[421, 848]
+    audio name = 6829-68769-0001.wav, index = 848, energy = 0.006705
+[19, 258]
+    audio name = 6829-68769-0017.wav, index = 258, energy = 0.006654
+[25, 1]
+    audio name = 6829-68769-0006.wav, index = 1, energy = 0.006752
+[335, 357]
+    audio name = 6829-68769-0014.wav, index = 357, energy = 0.006257
+[18, 358]
+    audio name = 6829-68769-0020.wav, index = 358, energy = 0.006129
+[223, 10]
+    audio name = 6829-68769-0022.wav, index = 10, energy = 0.007892
+[260, 19]
+    audio name = 6829-68769-0010.wav, index = 19, energy = 0.008023
+[7, 418]
+    audio name = 6829-68769-0000.wav, index = 418, energy = 0.006808
+[365, 287]
+    audio name = 6829-68769-0005.wav, index = 287, energy = 0.007056
+[16, 96]
+    audio name = 6829-68769-0019.wav, index = 96, energy = 0.007384
+[26, 478]
+    audio name = 6829-68769-0018.wav, index = 478, energy = 0.005895
+[14, 377]
+    audio name = 6829-68769-0007.wav, index = 377, energy = 0.008759
+[178, 4]
+    audio name = 6829-68769-0013.wav, index = 4, energy = 0.007455
+[14, 266]
+    audio name = 6829-68769-0003.wav, index = 266, energy = 0.005767
+[354, 9]
+    audio name = 6829-68769-0023.wav, index = 9, energy = 0.007970
+[398, 222]
+    audio name = 6829-68769-0016.wav, index = 222, energy = 0.007167
+[462, 287]
+    audio name = 6829-68769-0024.wav, index = 287, energy = 0.007589
+[42, 35]
+    audio name = 6829-68769-0009.wav, index = 35, energy = 0.006697
+[302, 57]
+    audio name = 6829-68769-0011.wav, index = 57, energy = 0.006822
+[19, 218]
+    audio name = 6829-68769-0002.wav, index = 218, energy = 0.007287
+[13, 19]
+    audio name = 6829-68769-0015.wav, index = 19, energy = 0.007270
+[25, 365]
+    audio name = 6829-68769-0012.wav, index = 365, energy = 0.005870
+[289, 769]
+    audio name = 6829-68769-0021.wav, index = 769, energy = 0.005352
+[913, 206]
+    audio name = 237-126133-0015.wav, index = 206, energy = 0.005230
+[481, 83]
+    audio name = 237-126133-0023.wav, index = 83, energy = 0.006313
+[31, 198]
+    audio name = 237-126133-0012.wav, index = 198, energy = 0.006525
+[1005, 54]
+    audio name = 237-126133-0001.wav, index = 54, energy = 0.004644
+[159, 86]
+    audio name = 237-126133-0018.wav, index = 86, energy = 0.002061
+[1143, 288]
+    audio name = 237-126133-0000.wav, index = 288, energy = 0.003833
+[690, 473]
+    audio name = 237-126133-0007.wav, index = 473, energy = 0.004138
+[314, 466]
+    audio name = 237-126133-0013.wav, index = 466, energy = 0.005321
+[609, 535]
+    audio name = 237-126133-0010.wav, index = 535, energy = 0.004248
+[198, 258]
+    audio name = 237-126133-0016.wav, index = 258, energy = 0.003410
+[381, 167]
+    audio name = 237-126133-0008.wav, index = 167, energy = 0.004260
+[45, 243]
+    audio name = 237-126133-0019.wav, index = 243, energy = 0.004848
+[285, 322]
+    audio name = 237-126133-0004.wav, index = 322, energy = 0.006214
+[384, 809]
+    audio name = 237-126133-0024.wav, index = 809, energy = 0.004076
+[389, 286]
+    audio name = 237-126133-0022.wav, index = 286, energy = 0.005803
+[36, 445]
+    audio name = 237-126133-0006.wav, index = 445, energy = 0.004574
+[416, 80]
+    audio name = 237-126133-0021.wav, index = 80, energy = 0.007192
+[462, 621]
+    audio name = 237-126133-0005.wav, index = 621, energy = 0.004581
+[479, 624]
+    audio name = 237-126133-0011.wav, index = 624, energy = 0.003562
+[133, 214]
+    audio name = 237-126133-0014.wav, index = 214, energy = 0.003850
+[382, 156]
+    audio name = 237-126133-0009.wav, index = 156, energy = 0.004292
+[15, 425]
+    audio name = 237-126133-0017.wav, index = 425, energy = 0.005736
+[623, 41]
+    audio name = 237-126133-0003.wav, index = 41, energy = 0.004804
+[885, 185]
+    audio name = 237-126133-0002.wav, index = 185, energy = 0.004144
+[206, 220]
+    audio name = 237-126133-0020.wav, index = 220, energy = 0.007196
+[9, 798]
+    audio name = 6930-75918-0020.wav, index = 798, energy = 0.005272
+[299, 150]
+    audio name = 6930-76324-0000.wav, index = 150, energy = 0.006735
+[1084, 476]
+    audio name = 6930-75918-0004.wav, index = 476, energy = 0.004973
+[50, 439]
+    audio name = 6930-76324-0002.wav, index = 439, energy = 0.006034
+[279, 23]
+    audio name = 6930-75918-0011.wav, index = 23, energy = 0.006781
+[606, 18]
+    audio name = 6930-75918-0017.wav, index = 18, energy = 0.006478
+[570, 324]
+    audio name = 6930-75918-0006.wav, index = 324, energy = 0.007162
+[342, 255]
+    audio name = 6930-75918-0000.wav, index = 255, energy = 0.006954
+[145, 62]
+    audio name = 6930-76324-0003.wav, index = 62, energy = 0.005849
+[280, 127]
+    audio name = 6930-75918-0010.wav, index = 127, energy = 0.006396
+[310, 202]
+    audio name = 6930-75918-0007.wav, index = 202, energy = 0.004728
+[1417, 439]
+    audio name = 6930-75918-0001.wav, index = 439, energy = 0.004870
+[983, 629]
+    audio name = 6930-75918-0016.wav, index = 629, energy = 0.005152
+[335, 405]
+    audio name = 6930-75918-0008.wav, index = 405, energy = 0.006308
+[373, 220]
+    audio name = 6930-75918-0015.wav, index = 220, energy = 0.005733
+[305, 228]
+    audio name = 6930-76324-0001.wav, index = 228, energy = 0.005517
+[2, 36]
+    audio name = 6930-75918-0013.wav, index = 36, energy = 0.005705
+[460, 415]
+    audio name = 6930-75918-0002.wav, index = 415, energy = 0.006858
+[34, 683]
+    audio name = 6930-75918-0014.wav, index = 683, energy = 0.004559
+[707, 492]
+    audio name = 6930-75918-0009.wav, index = 492, energy = 0.005671
+[1278, 611]
+    audio name = 6930-75918-0005.wav, index = 611, energy = 0.005189
+[1059, 752]
+    audio name = 6930-75918-0018.wav, index = 752, energy = 0.005333
+[189, 2]
+    audio name = 6930-75918-0012.wav, index = 2, energy = 0.007203
+[2301, 45]
+    audio name = 6930-75918-0003.wav, index = 45, energy = 0.003863
+[559, 410]
+    audio name = 6930-75918-0019.wav, index = 410, energy = 0.004593
+
+
+Final results for the 2-th min energy in STFT:
+
+illegal audios: len = 100, max = 0.000065, min = 0.000000, average = 0.000022
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 3.782419e-09, 1.111557e-08, 2.1623518e-07, 2.492336e-07, 9.225508e-07, 5.4595566e-06, 8.976077e-06, 9.421392e-06, 1.0020993e-05, 1.0243158e-05, 1.0302806e-05, 1.0533835e-05, 1.0716686e-05, 1.1267298e-05, 1.1570577e-05, 1.19997685e-05, 1.2415828e-05, 1.2773425e-05, 1.3298676e-05, 1.3439187e-05, 1.3767847e-05, 1.3918531e-05, 1.4026579e-05, 1.4031953e-05, 1.40578e-05, 1.4179975e-05, 1.41924165e-05, 1.4702992e-05, 1.4712857e-05, 1.4977968e-05, 1.532591e-05, 1.6214663e-05, 1.6780012e-05, 1.7584944e-05, 1.7878014e-05, 1.7932816e-05, 1.8879118e-05, 1.8880672e-05, 1.9498866e-05, 2.04504e-05, 2.0533256e-05, 2.205343e-05, 2.2350145e-05, 2.3831428e-05, 2.4698275e-05, 2.4990286e-05, 2.5976022e-05, 2.8115313e-05, 2.8591883e-05, 2.9203833e-05, 3.3871234e-05, 3.4498316e-05, 3.7150774e-05, 4.0922132e-05, 4.1451774e-05, 4.2426094e-05, 4.31345e-05, 4.325978e-05, 4.446625e-05, 4.465834e-05, 4.5311594e-05, 4.67724e-05, 4.691788e-05, 4.7357284e-05, 4.8374863e-05, 4.881349e-05, 4.9101993e-05, 4.9348822e-05, 4.9581955e-05, 4.9827937e-05, 4.9899685e-05, 5.028416e-05, 5.197693e-05, 5.248934e-05, 5.306299e-05, 5.512343e-05, 5.7231864e-05, 5.7812176e-05, 6.046351e-05, 6.4860484e-05]
+
+legal audios: len = 500, max = 0.000164, min = 0.000000, average = 0.000054
+[0.0, 0.0, 0.0, 0.0, 0.0, 2.2618233e-08, 9.41008e-08, 1.0067668e-06, 1.1530564e-06, 1.2292388e-06, 1.3818054e-06, 1.4025891e-06, 1.6796694e-06, 1.7982569e-06, 1.8824858e-06, 1.9375175e-06, 2.448838e-06, 2.8241307e-06, 2.9534312e-06, 3.0051708e-06, 3.0245233e-06, 3.54474e-06, 3.8948883e-06, 3.9672223e-06, 4.052277e-06, 4.0751324e-06, 4.193679e-06, 4.7826206e-06, 4.9475575e-06, 4.9827686e-06, 4.9882597e-06, 5.0506433e-06, 5.0737103e-06, 5.5004234e-06, 5.5266228e-06, 5.628045e-06, 5.651245e-06, 5.7181956e-06, 5.7329107e-06, 5.7461116e-06, 5.8696896e-06, 5.920888e-06, 5.940712e-06, 5.998872e-06, 6.249541e-06, 6.351885e-06, 6.724311e-06, 6.7695523e-06, 6.9339e-06, 6.95787e-06, 7.0594724e-06, 7.0923434e-06, 7.3279375e-06, 7.4921604e-06, 7.5341595e-06, 7.651708e-06, 7.665396e-06, 7.7611285e-06, 7.797372e-06, 7.825988e-06, 8.267977e-06, 8.314398e-06, 8.3259165e-06, 8.408751e-06, 8.500915e-06, 8.730792e-06, 8.743806e-06, 8.889602e-06, 8.993537e-06, 9.25104e-06, 9.341772e-06, 9.369134e-06, 9.477271e-06, 9.6377125e-06, 9.7462e-06, 9.8274395e-06, 1.0229885e-05, 1.0467131e-05, 1.05102245e-05, 1.0646311e-05, 1.0791495e-05, 1.1102285e-05, 1.1169906e-05, 1.1196267e-05, 1.12358775e-05, 1.1361679e-05, 1.1369873e-05, 1.1445086e-05, 1.1500092e-05, 1.1525816e-05, 1.1540288e-05, 1.1550508e-05, 1.1872855e-05, 1.1878401e-05, 1.1892173e-05, 1.1895213e-05, 1.2009197e-05, 1.2034564e-05, 1.2043454e-05, 1.2193278e-05, 1.2230533e-05, 1.2357456e-05, 1.2381283e-05, 1.2410516e-05, 1.2488178e-05, 1.2968432e-05, 1.2969577e-05, 1.3000707e-05, 1.3086213e-05, 1.3130182e-05, 1.3156935e-05, 1.3296374e-05, 1.3309643e-05, 1.3387541e-05, 1.3462667e-05, 1.3483241e-05, 1.3725321e-05, 1.3870034e-05, 1.4045609e-05, 1.4057293e-05, 1.4138094e-05, 1.416174e-05, 1.4261202e-05, 1.4462405e-05, 1.4478366e-05, 1.4525645e-05, 1.4595435e-05, 1.5299907e-05, 1.5444266e-05, 1.5804912e-05, 1.6034355e-05, 1.6089243e-05, 1.6113321e-05, 1.6518019e-05, 1.774431e-05, 1.80114e-05, 1.9442234e-05, 1.9959514e-05, 2.0112167e-05, 2.0649915e-05, 2.1193697e-05, 2.120237e-05, 2.1453416e-05, 2.1473727e-05, 2.1658967e-05, 2.1690714e-05, 2.2097583e-05, 2.2109953e-05, 2.274776e-05, 2.2975259e-05, 2.364453e-05, 2.3678616e-05, 2.4044944e-05, 2.4250121e-05, 2.4440591e-05, 2.4500894e-05, 2.458864e-05, 2.4680385e-05, 2.4692736e-05, 2.5319945e-05, 2.5710795e-05, 2.6053205e-05, 2.6203528e-05, 2.6226153e-05, 2.7019494e-05, 2.711537e-05, 2.7159691e-05, 2.7584898e-05, 2.7588907e-05, 2.7615562e-05, 2.7783257e-05, 2.7853319e-05, 2.7868473e-05, 2.7894921e-05, 2.7953618e-05, 2.815658e-05, 2.8274852e-05, 2.859118e-05, 2.8708795e-05, 2.9134857e-05, 2.9193408e-05, 2.9200237e-05, 2.948012e-05, 2.951372e-05, 2.9634159e-05, 2.964907e-05, 2.9769728e-05, 2.9924395e-05, 3.0081557e-05, 3.02694e-05, 3.038181e-05, 3.0444264e-05, 3.0784235e-05, 3.0912157e-05, 3.0934272e-05, 3.096907e-05, 3.102008e-05, 3.104283e-05, 3.106828e-05, 3.150929e-05, 3.1559604e-05, 3.1750402e-05, 3.176591e-05, 3.179645e-05, 3.1829208e-05, 3.212739e-05, 3.2174496e-05, 3.232015e-05, 3.2592758e-05, 3.2669308e-05, 3.2703818e-05, 3.2880125e-05, 3.2950637e-05, 3.3149507e-05, 3.318847e-05, 3.3409593e-05, 3.3540484e-05, 3.389122e-05, 3.391384e-05, 3.399769e-05, 3.402623e-05, 3.4233428e-05, 3.4446643e-05, 3.4756427e-05, 3.4970555e-05, 3.5034413e-05, 3.5490077e-05, 3.5994923e-05, 3.6362493e-05, 3.6478323e-05, 3.666451e-05, 3.6800582e-05, 3.692983e-05, 3.712073e-05, 3.7337228e-05, 3.7411304e-05, 3.744268e-05, 3.761228e-05, 3.768259e-05, 3.7811726e-05, 3.811154e-05, 3.812947e-05, 3.87174e-05, 3.9144015e-05, 3.9186056e-05, 3.953821e-05, 4.006712e-05, 4.0322415e-05, 4.034599e-05, 4.039496e-05, 4.050436e-05, 4.0619914e-05, 4.077306e-05, 4.0821247e-05, 4.0834682e-05, 4.1106283e-05, 4.1133288e-05, 4.1588355e-05, 4.166e-05, 4.1932763e-05, 4.2260406e-05, 4.255649e-05, 4.2639167e-05, 4.270457e-05, 4.2940148e-05, 4.3236494e-05, 4.3478838e-05, 4.3872253e-05, 4.3998825e-05, 4.40033e-05, 4.425129e-05, 4.4400702e-05, 4.472489e-05, 4.494226e-05, 4.5718392e-05, 4.6334742e-05, 4.6578738e-05, 4.6983707e-05, 4.8123264e-05, 4.8182348e-05, 4.8444745e-05, 4.863369e-05, 4.9333103e-05, 5.0135575e-05, 5.035211e-05, 5.079018e-05, 5.1243587e-05, 5.267072e-05, 5.2717813e-05, 5.2913398e-05, 5.2921583e-05, 5.3091826e-05, 5.3499047e-05, 5.4294527e-05, 5.4708482e-05, 5.493068e-05, 5.5063723e-05, 5.5151246e-05, 5.5190096e-05, 5.6109213e-05, 5.7365567e-05, 5.739942e-05, 5.7581245e-05, 5.8178208e-05, 5.8409314e-05, 5.8463957e-05, 5.8921243e-05, 5.9382233e-05, 5.9409755e-05, 5.958646e-05, 5.9618884e-05, 5.972952e-05, 5.9780738e-05, 6.05946e-05, 6.2219304e-05, 6.245249e-05, 6.24934e-05, 6.294352e-05, 6.296212e-05, 6.308235e-05, 6.309161e-05, 6.3122345e-05, 6.323612e-05, 6.345022e-05, 6.352971e-05, 6.356465e-05, 6.4158194e-05, 6.421458e-05, 6.4360494e-05, 6.480723e-05, 6.501109e-05, 6.503218e-05, 6.586584e-05, 6.630563e-05, 6.6873894e-05, 6.72829e-05, 6.8202186e-05, 6.822578e-05, 6.8889836e-05, 6.891989e-05, 6.91276e-05, 6.931615e-05, 6.932882e-05, 6.9564914e-05, 7.07096e-05, 7.085481e-05, 7.102927e-05, 7.104145e-05, 7.134669e-05, 7.149422e-05, 7.1536895e-05, 7.222405e-05, 7.3438074e-05, 7.350672e-05, 7.386954e-05, 7.39937e-05, 7.4009666e-05, 7.539446e-05, 7.541916e-05, 7.550552e-05, 7.566499e-05, 7.599887e-05, 7.787678e-05, 7.804282e-05, 7.811312e-05, 7.834253e-05, 7.9098965e-05, 7.962437e-05, 7.992089e-05, 8.010347e-05, 8.154384e-05, 8.17142e-05, 8.262781e-05, 8.2712904e-05, 8.28766e-05, 8.3176375e-05, 8.49229e-05, 8.585125e-05, 8.612351e-05, 8.641229e-05, 8.762257e-05, 8.797028e-05, 8.812254e-05, 8.815404e-05, 8.868174e-05, 8.9019144e-05, 8.9731235e-05, 9.0735346e-05, 9.0736154e-05, 9.193023e-05, 9.224694e-05, 9.484673e-05, 9.569847e-05, 9.7244556e-05, 9.789806e-05, 9.8873395e-05, 9.961319e-05, 9.985614e-05, 0.00010102656, 0.00010246121, 0.00010283184, 0.00010307512, 0.00010337222, 0.00010372106, 0.00010407805, 0.00010471804, 0.00010481774, 0.00010732279, 0.00010825531, 0.00010896634, 0.00010989203, 0.000110678986, 0.0001111874, 0.00011134762, 0.0001118511, 0.00011202726, 0.0001122296, 0.000112608905, 0.00011272062, 0.0001132758, 0.00011383682, 0.000114486604, 0.00011553256, 0.00011598408, 0.000115987794, 0.00011665635, 0.00011677339, 0.00011687, 0.00011698844, 0.0001172565, 0.00011800342, 0.0001181011, 0.00011829013, 0.00011855864, 0.00011898692, 0.000119356766, 0.000119410644, 0.000119648925, 0.00011973766, 0.00011975196, 0.000119921504, 0.000120431876, 0.000121369485, 0.00012144407, 0.0001215914, 0.000121606936, 0.00012179637, 0.00012214258, 0.0001223529, 0.00012347291, 0.00012403827, 0.00012410106, 0.00012561309, 0.00012567431, 0.0001257846, 0.00012599828, 0.00012784915, 0.00012788987, 0.00012810038, 0.00012852014, 0.00013003123, 0.0001300625, 0.00013042189, 0.00013103837, 0.00013228219, 0.0001323533, 0.00013236035, 0.00013364303, 0.00013380058, 0.00013492772, 0.000136027, 0.00013658586, 0.00013668857, 0.00013684195, 0.00013712705, 0.00013777605, 0.00013807269, 0.00013894786, 0.00013900151, 0.00014172972, 0.00014174143, 0.00014182129, 0.00014204066, 0.00014242803, 0.00014279908, 0.00014316755, 0.00014365885, 0.00014367391, 0.00014479648, 0.00014491798, 0.00014812156, 0.00014933533, 0.00015087791, 0.00015237503, 0.00015314331, 0.00015383007, 0.0001551289, 0.00015796509, 0.00015844977, 0.00016409543]
+
+adversarial audios: len = 468, max = 0.009000, min = 0.001874, average = 0.005231
+[0.0018741578, 0.0020611717, 0.002125256, 0.0021507968, 0.0021680775, 0.002174626, 0.0023443813, 0.00238397, 0.0024204967, 0.0025093076, 0.002568842, 0.0027454295, 0.0028398728, 0.0028755318, 0.0028765204, 0.0029015772, 0.0029074787, 0.002951204, 0.0029805703, 0.0029865985, 0.0029996578, 0.0030030857, 0.0030185913, 0.003022495, 0.0030394453, 0.003064496, 0.0030888647, 0.0031012297, 0.0031442011, 0.0031577335, 0.0031854555, 0.0032014558, 0.003241212, 0.0032434338, 0.00325765, 0.0032611978, 0.0033228672, 0.003333381, 0.0033654484, 0.003410358, 0.0034104662, 0.0034181545, 0.0034621144, 0.0034642613, 0.0034776493, 0.0034840123, 0.003488004, 0.0034890953, 0.0034968075, 0.0034979337, 0.003508635, 0.0035127813, 0.0035157893, 0.003524283, 0.00353342, 0.003554213, 0.0035623824, 0.0035630586, 0.0035727376, 0.0035800075, 0.0036002693, 0.0036239384, 0.003647754, 0.0036700265, 0.0036759705, 0.0036825007, 0.0037110522, 0.0037266396, 0.0037514186, 0.0037544887, 0.00379536, 0.003816242, 0.0038243108, 0.0038327167, 0.003841008, 0.0038501977, 0.0038545844, 0.0038571993, 0.0038586818, 0.0038631696, 0.0038694225, 0.003874305, 0.0038776936, 0.0039014297, 0.0039068987, 0.0039112684, 0.0039143194, 0.003924215, 0.0039288793, 0.003932033, 0.0039378842, 0.003941476, 0.003944322, 0.0039528394, 0.0039592097, 0.0039776103, 0.0039807116, 0.0039823963, 0.0039900406, 0.00399081, 0.0040074433, 0.004010618, 0.004015456, 0.00402956, 0.004039652, 0.0040615364, 0.004063483, 0.0040666126, 0.00406997, 0.0040762504, 0.0040762573, 0.0040824236, 0.0040902807, 0.0040906672, 0.0040923324, 0.0041217334, 0.004138473, 0.0041444316, 0.0041521857, 0.0041982187, 0.004200445, 0.0042080786, 0.0042209104, 0.004242002, 0.0042479066, 0.004259638, 0.004268549, 0.0042921305, 0.0042941007, 0.004296458, 0.0042987824, 0.004301892, 0.004303011, 0.0043086777, 0.0043088202, 0.0043162345, 0.0043184045, 0.0043305596, 0.004336665, 0.004350022, 0.0043577985, 0.0043708626, 0.004374205, 0.0043926635, 0.0044002486, 0.0044216234, 0.004422337, 0.0044301115, 0.0044301744, 0.004433776, 0.004437133, 0.0044447477, 0.0044520725, 0.0044525615, 0.0044701765, 0.0044705193, 0.0044781757, 0.0044994336, 0.004513579, 0.004530636, 0.004535355, 0.0045380164, 0.004552254, 0.004559004, 0.004559142, 0.0045659896, 0.004571437, 0.0045739496, 0.0045791497, 0.0045807287, 0.004593211, 0.004599093, 0.0046015885, 0.0046052993, 0.0046219835, 0.0046309684, 0.0046441355, 0.0046544443, 0.0046545733, 0.004655504, 0.004657884, 0.0046761045, 0.004680284, 0.0046813013, 0.0046817334, 0.0047054277, 0.004711434, 0.0047147395, 0.004714876, 0.0047279187, 0.004738441, 0.0047540492, 0.00476795, 0.0047726785, 0.004773121, 0.004774211, 0.0047971425, 0.004803194, 0.004804471, 0.004817574, 0.0048204563, 0.0048475605, 0.004847639, 0.0048586186, 0.0048634177, 0.0048634503, 0.0048695863, 0.004870415, 0.0048728404, 0.004877251, 0.004916412, 0.004927129, 0.0049406523, 0.0049411333, 0.004944387, 0.0049574315, 0.004967848, 0.0049725845, 0.0049778144, 0.0049860436, 0.0049924264, 0.0049933186, 0.0049971286, 0.005003443, 0.005008786, 0.0050217444, 0.0050429553, 0.005057204, 0.005069474, 0.0050861356, 0.005088241, 0.005090429, 0.0050927075, 0.005101403, 0.0051030875, 0.0051057995, 0.005112395, 0.005118408, 0.0051251603, 0.005129292, 0.0051393923, 0.0051521026, 0.0051662927, 0.0051887436, 0.0051898505, 0.005190803, 0.0051995926, 0.005224497, 0.0052299723, 0.005270025, 0.0052705077, 0.0052723237, 0.005275732, 0.005292969, 0.0053089946, 0.005321127, 0.0053280573, 0.0053328485, 0.005352391, 0.0053547975, 0.005371587, 0.005372056, 0.0053724474, 0.005392135, 0.0053963778, 0.005403067, 0.005410112, 0.00541613, 0.0054198722, 0.005427619, 0.0054468685, 0.0054509565, 0.0054513365, 0.005456051, 0.005496126, 0.0055049807, 0.005516614, 0.0055232965, 0.005534289, 0.005541596, 0.005541884, 0.00554233, 0.00554607, 0.005573132, 0.0055736843, 0.005582138, 0.005593658, 0.005610785, 0.0056406585, 0.0056430493, 0.005664338, 0.0056684236, 0.0056712828, 0.0056776144, 0.005679082, 0.0057049813, 0.005705802, 0.0057151043, 0.005717175, 0.005727659, 0.00572869, 0.0057313293, 0.0057333885, 0.0057356046, 0.005744567, 0.0057481527, 0.0057516415, 0.005766565, 0.0058030034, 0.0058126543, 0.0058141463, 0.005849331, 0.005852841, 0.005855787, 0.0058603114, 0.005870317, 0.0058791833, 0.0058852974, 0.005888762, 0.005895047, 0.0059334273, 0.005942047, 0.0059431773, 0.0059645134, 0.0059897695, 0.005993081, 0.0059981495, 0.0060342704, 0.006041036, 0.006041587, 0.0060496693, 0.006056427, 0.006065874, 0.0060697887, 0.006072592, 0.0060778204, 0.0060788505, 0.006082496, 0.0060976427, 0.0061032088, 0.0061259503, 0.0061287414, 0.0061484585, 0.0061589256, 0.0061668865, 0.006168863, 0.0061746263, 0.0061881747, 0.0062117605, 0.0062129707, 0.006214291, 0.006248213, 0.006257242, 0.006307836, 0.006312979, 0.006313178, 0.0063139354, 0.006327608, 0.0063279658, 0.0063711028, 0.0063746474, 0.0063762576, 0.0063860123, 0.00639214, 0.006396388, 0.006402199, 0.00640269, 0.006406763, 0.006423111, 0.0064772237, 0.0064776754, 0.0064800764, 0.0064896243, 0.0065248474, 0.006549378, 0.006560527, 0.0065662046, 0.0065688947, 0.0065883235, 0.0065964917, 0.0065976353, 0.006653297, 0.006653754, 0.006669539, 0.006688221, 0.006696802, 0.0067052166, 0.0067350585, 0.0067399014, 0.006741116, 0.0067524235, 0.006765981, 0.0067718476, 0.0067813764, 0.006797402, 0.0068082972, 0.006822428, 0.0068330267, 0.0068402966, 0.0068575335, 0.0068650744, 0.0068992097, 0.0069023645, 0.0069542495, 0.0069910297, 0.0070080333, 0.0070183617, 0.0070286803, 0.007032039, 0.00703968, 0.007055547, 0.007055652, 0.0070650736, 0.0071326755, 0.007147386, 0.007154724, 0.007162431, 0.0071668415, 0.0071803867, 0.0071919565, 0.0071931314, 0.007196477, 0.007202728, 0.0072163786, 0.00721794, 0.007218653, 0.0072437786, 0.0072620134, 0.007267774, 0.0072703916, 0.007286968, 0.0072912513, 0.0073218485, 0.00732344, 0.007332949, 0.0073675853, 0.007384411, 0.0074481023, 0.007455199, 0.007520847, 0.0075885747, 0.007588977, 0.0075971456, 0.0076760985, 0.0076779663, 0.0077008787, 0.0078059225, 0.007827591, 0.007843689, 0.007869001, 0.007892128, 0.007970319, 0.008023231, 0.008048977, 0.008128624, 0.008156702, 0.0081950845, 0.008263863, 0.008374992, 0.0083855, 0.008385809, 0.00840353, 0.008404433, 0.008430604, 0.008758022, 0.00875914, 0.008868395, 0.008999627]
+

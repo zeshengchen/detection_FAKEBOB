@@ -8,7 +8,7 @@ Source code for the paper "On the Detection of Adaptive Adversarial Attacks in S
 	- **./detection_countermeasure/epsilon_00025**: reducing the perturbation threshold to 0.00025.
 	- **./detection_countermeasure/n-th_FAKEBOB**: (n+1)th MEH-FEST detection method against n-th FAKEBOB attacks. 
 - **./detection_extend.sh**: shell script to run "**detection_extend.py**".
-- **./detection_extend.py**: $n$-th MEH-FEST detection method.  
+- **./detection_extend.py**: n-th MEH-FEST detection method.  
 
 ## Reproduce our experiment step by step
 1. Follow the instructions at [FAKEBOB GitHub Repo](https://github.com/FAKEBOB-adversarial-attack/FAKEBOB) to generate adversarial audios.

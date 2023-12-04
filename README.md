@@ -1,5 +1,5 @@
 # Detection of FAKEBOB (MEH-FEST)
-Source code for the paper ["On the Detection of Adaptive Adversarial Attacks in Speaker Verification Systems"](https://ieeexplore.ieee.org/document/10102918). In this work, we propose a new detector, called Minimum Energy in High FrEquencies for Short Time (MEH-FEST), to distinguish between an original audio and an adversarial audio.
+Source code for the paper "On the Detection of Adaptive Adversarial Attacks in Speaker Verification Systems". In this work, we propose a new detector, called Minimum Energy in High FrEquencies for Short Time (MEH-FEST), to distinguish between an original audio and an adversarial audio.
 
 ```
 @ARTICLE{10102918,
